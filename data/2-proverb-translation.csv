@@ -1,0 +1,3373 @@
+prompt,classes,answer_index
+"Translate the following sentence from Chinese into English.
+缺席使心脏变得沉重。
+to:
+Absence makes the heart grow","[' heavy.', ' fonder.']",0
+"Translate the following sentence from Russian into English.
+Долгое отсутствие, скоро вернулся.
+to:
+Long absent, soon","[' forgotten.', ' returned.']",1
+"Translate the following sentence from French into English.
+Les absents sont toujours dans l'arrière-plan.
+to:
+The absent are always in the","[' wrong.', ' background.']",1
+"Translate the following sentence from Japanese into English.
+事故は最善の方法で起こります。
+to:
+Accidents will happen in the best","[' families.', ' way.']",1
+"Translate the following sentence from Japanese into English.
+行動は、思考よりも声を上げます。
+to:
+Actions speak louder than","[' thoughts.', ' words.']",0
+"Translate the following sentence from Korean into English.
+칭찬: 다른 사람의 저와 닮음에 대한 우리의 조심스런 인식.
+to:
+Admiration: our polite recognition of another man's resemblance to","[' me.', ' ourselves.']",0
+"Translate the following sentence from Italian into English.
+Quello che non avanza scende.
+to:
+He who does not advance goes","[' down.', ' backwards.']",0
+"Translate the following sentence from Spanish into English.
+El asesoramiento más necesario es menos apreciado.
+to:
+Advice most needed is least","[' appreciated.', ' heeded.']",0
+"Translate the following sentence from Chinese into English.
+建议任何人不要结婚或上大学。
+to:
+Advise none to marry or go to","[' college.', ' war.']",0
+"Translate the following sentence from German into English.
+Die Berater führen kein Geschäft.
+to:
+Advisers run no","[' risks.', ' business.']",1
+"Translate the following sentence from French into English.
+Tout est juste dans l'amour et la vie.
+to:
+All is fair in love and","[' life.', ' war.']",0
+"Translate the following sentence from Italian into English.
+Tutto va bene che finisce felicemente.
+to:
+All is well that ends","[' well.', ' happily.']",1
+"Translate the following sentence from French into English.
+L'Amérique est le pays de Dieu.
+to:
+America is God's","[' melting-pot.', ' country.']",1
+"Translate the following sentence from Korean into English.
+두 개의 콘크리트에서 잘 타는 거죠. 한 개의 콘크리트가 실패하면 다른 콘크리트가 잠수할 수도 있습니다.
+to:
+Good riding at two anchors, men have told, for if the one fails, the other may","[' hold.', ' sink.']",1
+"Translate the following sentence from Korean into English.
+분노는 멍청한 사람들을 영리하게 만듭니다. 하지만 그 분노는 그들을 살아있게 합니다.
+to:
+Anger makes dull men witty, but it keeps them","[' alive.', ' poor.']",0
+"Translate the following sentence from French into English.
+Ne laissez pas le coucher du soleil trouver que vous souffrez encore de vos blessures.
+to:
+Do not let sunset find you still nursing your","[' anger.', ' wounds.']",1
+"Translate the following sentence from Spanish into English.
+El hecho de pedir disculpas significa poner la base para una nueva infracción.
+to:
+To apologize is to lay the foundation for a further","[' offense.', ' offence.']",1
+"Translate the following sentence from French into English.
+Les applaus sont l'écho d'une chanson.
+to:
+Applause is the echo of a","[' platitude.', ' song.']",1
+"Translate the following sentence from Spanish into English.
+Una mazá que se engordará destruirá todo el barril, o una oveja que se engordará vacirá todo el barril.
+to:
+One rotten apple will spoil the whole barrel. or One scabbed sheep mars the whole","[' barrel.', ' flock.']",0
+"Translate the following sentence from Korean into English.
+하루에 사과 하나가 의사를 바쁘게 합니다.
+to:
+An apple a day keeps the doctor","[' away.', ' busy.']",1
+"Translate the following sentence from French into English.
+Une pomme défectueuse lui attaque la tête.
+to:
+A rotten apple injures its","[' head.', ' companions.']",0
+"Translate the following sentence from Italian into English.
+Una mela al giorno tiene il dottore lontano, se hai una buona ragione.
+to:
+An apple a day keeps the doctor away--if you have good","[' aim.', ' reason.']",1
+"Translate the following sentence from German into English.
+Die beste Kunst verbirgt es. Die beste Kunst verdeckt es.
+to:
+The best art conceals","[' art.', ' it.']",1
+"Translate the following sentence from Japanese into English.
+全ての男達が「あなたは馬鹿だ」と言っている時、離れて行くのは時間だ。
+to:
+When all men say you are an ass it is time to","[' leave.', ' bray.']",0
+"Translate the following sentence from Chinese into English.
+不要为未出生的孩子做衣服,不要为未出生的孩子做衣服。
+to:
+Don't make clothes for a not yet born","[' child.', ' baby.']",0
+"Translate the following sentence from Spanish into English.
+No descarte el bebé con los demás.
+to:
+Don't throw the baby out with the","[' others.', ' bathwater.']",0
+"Translate the following sentence from German into English.
+Bad ist das beste Wort.
+to:
+Bad is the best","[' word.', ' choice.']",0
+"Translate the following sentence from Japanese into English.
+悪い解決策は良い解決策よりも良い解決策である。
+to:
+A bad settlement is better than a good","[' settlement.', ' lawsuit.']",0
+"Translate the following sentence from Russian into English.
+Неудобный работник ссоряется со своим работодателем.
+to:
+A bad workman quarrels with his","[' employer.', ' tools.']",0
+"Translate the following sentence from Spanish into English.
+Las buenas leyes provienen de las malas.
+to:
+Good laws have sprung from bad","[' customs.', ' ones.']",1
+"Translate the following sentence from French into English.
+Laissez le bâton bien battre et le poisson meurt.
+to:
+Bait the hook well and the fish will","[' die.', ' bite.']",0
+"Translate the following sentence from Spanish into English.
+Los barking dogs raramente bark.
+to:
+Barking dogs seldom","[' bark.', ' bite.']",0
+"Translate the following sentence from Spanish into English.
+Su barque es peor que su barque.
+to:
+His bark is worse than his","[' bite.', ' bark.']",1
+"Translate the following sentence from Korean into English.
+아름다움은 제게 기쁨입니다.
+to:
+A thing of beauty is a joy for","[' ever.', ' me.']",1
+"Translate the following sentence from French into English.
+Certains jours, tu prends l'ours, d'autres jours, l'ours prend moi.
+to:
+Some days you get the bear, other days the bear gets","[' me.', ' you.']",0
+"Translate the following sentence from Chinese into English.
+如果你不能打败他们,就加入我们吧。
+to:
+If you can't beat them, join","[' us.', ' them.']",0
+"Translate the following sentence from Italian into English.
+Il meglio è buono.
+to:
+The best is","[' good.', ' cheapest.']",0
+"Translate the following sentence from Italian into English.
+Il bene è il nemico del male.
+to:
+The good is the enemy of the","[' evil.', ' best.']",0
+"Translate the following sentence from French into English.
+Un beggar ne peut jamais être confié.
+to:
+A beggar can never be","[' trusted.', ' bankrupt.']",0
+"Translate the following sentence from Japanese into English.
+ Beggars は信頼できない。
+to:
+Beggars can't be","[' choosers.', ' trusted.']",1
+"Translate the following sentence from Spanish into English.
+Pon un mendigo en caballo de caballo y él le riderá a la muerte; Pon un mendigo en caballo de caballo, y él le riderá a la muerte.
+to:
+Put a beggar on horseback and he'll ride it to death; Set a beggar on horseback, and he'll ride to the","[' death.', ' Devil.']",0
+"Translate the following sentence from French into English.
+Deux erreurs ne font pas une erreur.
+to:
+Two wrongs don't make a","[' wrong.', ' right.']",0
+"Translate the following sentence from Korean into English.
+좋은 시작은 좋은 시작을 만듭니다.
+to:
+A good beginning makes a good","[' ending.', ' start.']",1
+"Translate the following sentence from Italian into English.
+Il buon inizio è a metà termine.
+to:
+Well begun is half","[' done.', ' finished.']",1
+"Translate the following sentence from German into English.
+A bellyful ist ein Fleisch, Trink oder Lebensmittel.
+to:
+A bellyful is one of meat, drink, or","[' food.', ' sorrow.']",0
+"Translate the following sentence from Japanese into English.
+脂肪の平和よりも、脂肪の平和よりも、より良い lean 平和。
+to:
+Better a lean peace than a fat","[' peace.', ' victory.']",0
+"Translate the following sentence from Russian into English.
+Лучшее – враг лучшего.
+to:
+Better is the enemy of","[' better.', ' good.']",0
+"Translate the following sentence from Spanish into English.
+Más tarde que antes es mejor que tarde.
+to:
+Better late than","[' early.', ' never.']",0
+"Translate the following sentence from Spanish into English.
+Mejor seguro que mala.
+to:
+Better safe than","[' ill.', ' sorry.']",0
+"Translate the following sentence from Japanese into English.
+より良い underdone ないよりも、より良い underdone 。
+to:
+Better underdone than","[' overdone.', ' not.']",1
+"Translate the following sentence from Spanish into English.
+Tendrá cuidado de los profetas falsos, que vienen a ti en ropa de oveja, y dentro de ti son animales que se roen.
+to:
+Beware of the false prophets, who come to you in sheep's clothing, and inwardly are ravening","[' beasts.', ' wolves.']",0
+"Translate the following sentence from German into English.
+Ein Vogel in der Hand ist zwei wert im Spiel.
+to:
+A bird in the hand is worth two in the","[' bush.', ' game.']",1
+"Translate the following sentence from Russian into English.
+Остальные птицы (англ. Birds of a feather flock Guide).
+to:
+Birds of a feather flock","[' together.', ' Guide.']",1
+"Translate the following sentence from French into English.
+Parlez doucement à l'oiseau que vous voulez tuer.
+to:
+Deal gently with the bird you mean to","[' catch.', ' kill.']",1
+"Translate the following sentence from Korean into English.
+멋진 깃털은 멋진 옷을 만듭니다.
+to:
+Fine feathers make fine","[' birds.', ' clothes.']",1
+"Translate the following sentence from German into English.
+Es ist ein böser Vogel, der seine eigene Nahrung verderbt.
+to:
+It is an ill bird that fouls its own","[' food.', ' nest.']",0
+"Translate the following sentence from German into English.
+Es ist der frühe Vogel, der den Ruf bekommt.
+to:
+It is the early bird that gets the","[' call.', ' worm.']",0
+"Translate the following sentence from German into English.
+Nicht barken, wenn du nicht sprechen kannst.
+to:
+Don't bark if you can't","[' bite.', ' talk.']",1
+"Translate the following sentence from Chinese into English.
+不要咬得比你吞下去的还要多。
+to:
+Don't bite off more than you can","[' chew.', ' swallow.']",1
+"Translate the following sentence from Italian into English.
+Non picchi la mano che la alimenta.
+to:
+Don't bite the hand that feeds","[' it.', ' you.']",0
+"Translate the following sentence from German into English.
+Blut ist dicker als Blut.
+to:
+Blood is thicker than","[' water.', ' blood.']",1
+"Translate the following sentence from Chinese into English.
+好的血 always show up. 好的血 always show up.
+to:
+Good blood always shows","[' up.', ' itself.']",0
+"Translate the following sentence from Spanish into English.
+Un libro es un libro.
+to:
+A book is a","[' book.', ' friend.']",0
+"Translate the following sentence from Russian into English.
+Большая книга - это большая книга.
+to:
+A great book is a great","[' book.', ' evil.']",0
+"Translate the following sentence from Russian into English.
+Книги должны следовать наукам, а не самим наукам.
+to:
+Books must follow sciences, and not sciences","[' themselves.', ' books.']",0
+"Translate the following sentence from Russian into English.
+Книги думают сами по себе.
+to:
+Books think for","[' themselves.', ' me.']",0
+"Translate the following sentence from French into English.
+Classic, un livre que les gens louent et que les gens n'aiment pas.
+to:
+Classic, a book which people praise and don't","[' like.', ' read.']",0
+"Translate the following sentence from Japanese into English.
+著書をタイトルで判断しないでください。
+to:
+Don't judge a book by its","[' title.', ' cover.']",0
+"Translate the following sentence from Italian into English.
+Teme l'uomo di una parola.
+to:
+Fear the man of one","[' book.', ' word.']",1
+"Translate the following sentence from French into English.
+Comme l'auteur, comme l'artiste, comme l'artiste.
+to:
+Like author, like","[' book.', ' artist.']",1
+"Translate the following sentence from Korean into English.
+어떤 책도 그렇게 나쁘지 않았습니다. 하지만 어떤 좋은 것들이 이걸 벗어날 수 있을지도 모릅니다.
+to:
+No book was so bad, but some good might be got out of","[' this.', ' it.']",0
+"Translate the following sentence from Japanese into English.
+一部の本は味わうべきであり、一部は飲み込むべきであり、一部は噛み砕くべきであり、一部は焼くべきである。
+to:
+Some books are to be tasted, others to be swallowed, and some few to be chewed and","[' burned.', ' digested.']",0
+"Translate the following sentence from Japanese into English.
+上昇する潮汐はすべての注意を Lifts All Caution.
+to:
+A rising tide lifts all","[' caution.', ' boats.']",0
+"Translate the following sentence from Japanese into English.
+全員が同じ部屋にいるように。
+to:
+To be all in the same","[' room.', ' boat.']",0
+"Translate the following sentence from Chinese into English.
+不要判断一个人,除非你穿着他的鞋子走了一英里。
+to:
+Don't judge a man until you have walked a mile in his","[' shoes.', ' boots.']",0
+"Translate the following sentence from Japanese into English.
+生まれ: あなたが彼を話すことを望むときに話す人。
+to:
+Bore: a person who talks when you wish him to","[' listen.', ' talk.']",1
+"Translate the following sentence from Italian into English.
+I boughs che contano di più si abbassano.
+to:
+The boughs that bear most hang","[' down.', ' lowest.']",0
+"Translate the following sentence from French into English.
+Un better bow qu'un arrow.
+to:
+Better bow than","[' break.', ' arrow.']",1
+"Translate the following sentence from Spanish into English.
+Ningún, except the brave deserve the honor.
+to:
+None but the brave deserve the","[' honor.', ' fair.']",0
+"Translate the following sentence from French into English.
+La fortune favorise les riches.
+to:
+Fortune favors the","[' rich.', ' brave.']",0
+"Translate the following sentence from Chinese into English.
+半块面包比什么都好,比什么都好。
+to:
+Half a loaf is better than no","[' more.', ' bread.']",0
+"Translate the following sentence from French into English.
+Ne traversez pas un pont avant d'arriver à un.
+to:
+Don't cross a bridge before you come to","[' one.', ' it.']",0
+"Translate the following sentence from Korean into English.
+broken watch is right twice a week a week.
+to:
+A broken watch is right two times a","[' week.', ' day.']",0
+"Translate the following sentence from Russian into English.
+Если он не сломался, то ничего не исправляйте.
+to:
+If it ain't broke, don't fix","[' it.', ' anything.']",1
+"Translate the following sentence from Chinese into English.
+一个新芽吹了它.
+to:
+A new broome sweepeth","[' cleane.', ' it.']",1
+"Translate the following sentence from German into English.
+Der jüngere Bruder, der jüngere Bruder, der besser geschossen hat.
+to:
+The younger brother the better","[' shot.', ' gentleman.']",0
+"Translate the following sentence from Spanish into English.
+No se puede alimentar a una vaca.
+to:
+You can't milk a","[' bull.', ' cow.']",1
+"Translate the following sentence from Russian into English.
+Блюй всегда является угрозой.
+to:
+A bully is always a","[' coward.', ' threat.']",1
+"Translate the following sentence from Korean into English.
+양쪽과 양쪽의 촛불을 태워야 합니다.
+to:
+To burn the candle at both","[' sides.', ' ends.']",0
+"Translate the following sentence from Korean into English.
+사업은 잘 진행되고 있습니다.
+to:
+Business is","[' business.', ' good.']",1
+"Translate the following sentence from Chinese into English.
+每个人的事务是没有人关心的。
+to:
+Everyone's business is no one's","[' business.', ' concern.']",1
+"Translate the following sentence from Japanese into English.
+あなた自身の事柄を考慮しなさい。
+to:
+Mind your own","[' business.', ' affairs.']",1
+"Translate the following sentence from Spanish into English.
+El juego, conocido como negocio, se ve con una profunda desventaja frente al negocio conocido como comercio.
+to:
+The gambling known as business looks with austere disfavor upon the business known as","[' gambling.', ' trade.']",1
+"Translate the following sentence from Chinese into English.
+如果你便宜地买东西,你很便宜地付钱。
+to:
+If you buy cheaply, you pay","[' well.', ' dearly.']",0
+"Translate the following sentence from Japanese into English.
+品質を買えば、もっと泣くだけだ。
+to:
+If you buy quality, you only cry","[' harder.', ' once.']",0
+"Translate the following sentence from Korean into English.
+여러분은 여러분의 케이크를 가지고 모든 것을 먹을 수 없습니다.
+to:
+You can't have your cake and eat it","[' too.', ' all.']",1
+"Translate the following sentence from German into English.
+Eine Kerze verliert nichts, indem sie eine andere erhellt.
+to:
+A candle loses nothing by lighting another","[' candle.', ' one.']",1
+"Translate the following sentence from German into English.
+Verbrennen Sie nicht die Kerze an beiden Seiten.
+to:
+Don't burn the candle at both","[' ends.', ' sides.']",1
+"Translate the following sentence from Spanish into English.
+El que es peor puede seguir manteniendo el poder.
+to:
+He that is worst may still hold the","[' candle.', ' power.']",1
+"Translate the following sentence from Italian into English.
+Prendete il vostro cavallo.
+to:
+Paddle your own","[' horse.', ' canoe.']",0
+"Translate the following sentence from Spanish into English.
+Un gato puede mirar a un rato.
+to:
+A cat may look at a","[' king.', ' mouse.']",1
+"Translate the following sentence from Korean into English.
+모든 고양이들은 물고기를 좋아하지만 발톱이 더러워지는 것을 싫어합니다.
+to:
+All cats love fish but hate to get their paws","[' wet.', ' dirty.']",1
+"Translate the following sentence from French into English.
+Curiosity avait tué l'homme.
+to:
+Curiosity killed the","[' man.', ' cat.']",0
+"Translate the following sentence from Spanish into English.
+Hay más de un modo de la piel de una persona.
+to:
+There's more than one way to skin a","[' person.', ' cat.']",0
+"Translate the following sentence from Russian into English.
+Чем больше ты стукаешь кошки хвостом, тем больше он поднимает голову.
+to:
+The more you stroke the cat's tail, the more he raises his","[' back.', ' head.']",1
+"Translate the following sentence from Italian into English.
+Quando il gatto va via, il topo ritorna.
+to:
+When the cat is away, the mice will","[' play.', ' return.']",1
+"Translate the following sentence from Japanese into English.
+なぜなら、真に自分自身を知っている人は誰もいないので、誰も本当に自分自身を知っている。
+to:
+No man can justly censure or condemn another, because indeed no man truly knows","[' another.', ' himself.']",1
+"Translate the following sentence from French into English.
+Les activités de charité commencent à Noël.
+to:
+Charity begins at","[' home.', ' Christmas.']",1
+"Translate the following sentence from Russian into English.
+Холод, как лед.
+to:
+Cold as","[' ice.', ' charity.']",0
+"Translate the following sentence from Italian into English.
+Non contate i vostri polli prima di essere uccisi.
+to:
+Don't count your chickens before they're","[' killed.', ' hatched.']",0
+"Translate the following sentence from Russian into English.
+Ребёнок является отцом для ребенка.
+to:
+The child is father to the","[' child.', ' man.']",0
+"Translate the following sentence from Italian into English.
+I bambini sono conforti incerti, comforti incerti, ma premi certi.
+to:
+Children are uncertain comforts but certain","[' rewards.', ' cares.']",0
+"Translate the following sentence from Russian into English.
+Сделайте ручку, сделайте ручку.
+to:
+Spare the rod, spoil the","[' child.', ' rod.']",1
+"Translate the following sentence from French into English.
+Ne crains pas plus la perte de la cloison que la perte de la cloison.
+to:
+Fear not the loss of the bell more than the loss of the","[' bell.', ' steeple.']",0
+"Translate the following sentence from Chinese into English.
+环境改变现实。
+to:
+Circumstances alter","[' reality.', ' cases.']",0
+"Translate the following sentence from Japanese into English.
+人々は人々である。
+to:
+The people are the","[' people.', ' city.']",0
+"Translate the following sentence from Chinese into English.
+整天都开着好衣服。
+to:
+Good clothes open all","[' day.', ' doors.']",0
+"Translate the following sentence from Korean into English.
+석탄을 운반해서 일을 했습니다.
+to:
+Carrying coals to","[' Newcastle.', ' work.']",1
+"Translate the following sentence from German into English.
+Die Küste ist rocky.
+to:
+The coast is","[' clear.', ' rocky.']",1
+"Translate the following sentence from Japanese into English.
+コバルラーの子供たちが最も悪影響を受けています。
+to:
+Cobblers children are worst","[' shod.', ' affected.']",1
+"Translate the following sentence from Spanish into English.
+Shoemaker, te mantenga a tus pies.
+to:
+Shoemaker, stick to your","[' last.', ' feet.']",1
+"Translate the following sentence from German into English.
+Wie der alte Hahn kräht, so kräht der Kraut, so kräht der Kraut.
+to:
+As the old cock crows, so crows the","[' young.', ' crow.']",1
+"Translate the following sentence from German into English.
+Alle Farben werden im Finale zustimmen.
+to:
+All colours will agree in the","[' dark.', ' final.']",1
+"Translate the following sentence from French into English.
+Le conseil n'est pas un problème.
+to:
+Counsel is no","[' problem.', ' command.']",0
+"Translate the following sentence from Russian into English.
+Те, кто не служил, не могут служить.
+to:
+Who has not served cannot","[' serve.', ' command.']",0
+"Translate the following sentence from French into English.
+Le sens commun n'est pas si mauvais.
+to:
+Common sense is not so","[' bad.', ' common.']",0
+"Translate the following sentence from Chinese into English.
+一个男人因他经营的公司而熟知。
+to:
+A man is known by the company he","[' keeps.', ' runs.']",1
+"Translate the following sentence from German into English.
+Es ist besser, allein zu sein, als in schlechter Form.
+to:
+Better to be alone than in bad","[' shape.', ' company.']",0
+"Translate the following sentence from German into English.
+Misery liebt mich. Misery liebt mich.
+to:
+Misery loves","[' company.', ' me.']",1
+"Translate the following sentence from Russian into English.
+Два — компания; три — человек.
+to:
+Two is a company; three is a","[' person.', ' crowd.']",0
+"Translate the following sentence from Italian into English.
+Due sono aziende, tre sono aziende.
+to:
+Two is company, three is","[' company.', ' none.']",0
+"Translate the following sentence from Korean into English.
+비교를 할 수 있습니다.
+to:
+Comparisons are","[' available.', ' odious.']",0
+"Translate the following sentence from German into English.
+Vertrauen erzeugt Vertrauen.
+to:
+Confidence begets","[' trust.', ' confidence.']",0
+"Translate the following sentence from Italian into English.
+Una coscienza colpevole non ha bisogno di spiegazioni.
+to:
+A guilty conscience needs no","[' explanation.', ' accuser.']",0
+"Translate the following sentence from Korean into English.
+그는 자신의 음식을 lick 할 수 없는 불쌍한 요리사입니다.
+to:
+He's an ill cook that cannot lick his own","[' fingers.', ' food.']",1
+"Translate the following sentence from German into English.
+Plough tief, während sluggards schlafen, und Sie haben Mais, um zu verkaufen und zu essen und zu verkaufen.
+to:
+Plough deep while sluggards sleep, and you will have corn to sell and","[' eat.', ' keep.']",0
+"Translate the following sentence from French into English.
+Le conseil n'est pas un problème.
+to:
+Counsel is no","[' command.', ' problem.']",1
+"Translate the following sentence from Korean into English.
+여러분이 그것들을 요구할 때, 여러분이 그것들을 요구할 때, 소금이나 조언도 주지 마세요.
+to:
+Give neither salt nor counsel till you are asked for","[' them.', ' it.']",0
+"Translate the following sentence from French into English.
+Gardez vos propres secrets.
+to:
+Keep your own","[' secrets.', ' counsel.']",0
+"Translate the following sentence from Italian into English.
+Non chiedete cosa il vostro paese può fare per voi - chiedete cosa potete fare per il vostro popolo.
+to:
+Ask not what your country can do for you - ask what you can do for your","[' country.', ' people.']",1
+"Translate the following sentence from Korean into English.
+저는 단지 제 사람들을 위해 잃을 수 있는 단 한가지의 삶을 가지고 있다는 것을 후회합니다.
+to:
+I only regret that I have but one life to lose for my","[' people.', ' country.']",0
+"Translate the following sentence from Spanish into English.
+El valor se ha perdido, todos muertos.
+to:
+Courage lost, all","[' lost.', ' dead.']",1
+"Translate the following sentence from Korean into English.
+쿠바드: 위험한 상황에 처한 사람은 마음으로 생각하죠.
+to:
+Coward: one who in a perilous emergency thinks with his","[' heart.', ' legs.']",0
+"Translate the following sentence from German into English.
+Geben Sie Kredit, wo Kredit erforderlich ist.
+to:
+Give credit where credit is","[' due.', ' needed.']",1
+"Translate the following sentence from Italian into English.
+Per una pelle di crocodile scusa.
+to:
+To shed crocodile","[' skin.', ' tears.']",0
+"Translate the following sentence from Japanese into English.
+クロウはここでクロウをピックアウトしません。
+to:
+Crows will not pick out crows","[' here.', ' eyes.']",0
+"Translate the following sentence from Russian into English.
+Есть много скользкий ""скользнув"" вперёд чашу и ложку.
+to:
+There's many a slip 'twixt cup and","[' lip.', ' spoon.']",1
+"Translate the following sentence from German into English.
+Was nicht geheilt werden kann, muss zerstört werden.
+to:
+What can't be cured must be","[' destroyed.', ' endured.']",0
+"Translate the following sentence from German into English.
+Andere Zeiten, andere Zeiten, andere Zeiten.
+to:
+Other times, other","[' customs.', ' times.']",1
+"Translate the following sentence from German into English.
+Der Kunde ist immer glücklich.
+to:
+The customer is always","[' right.', ' happy.']",1
+"Translate the following sentence from Italian into English.
+Cynic: un guardiane, la cui visione sbagliata vede le cose come sono, non come dovrebbero apparire.
+to:
+Cynic: a blackguard whose faulty vision sees things as they are, not as they ought to","[' be.', ' appear.']",1
+"Translate the following sentence from Japanese into English.
+夜明けの日を称賛する。
+to:
+Praise the day at","[' sunset.', ' dawn.']",1
+"Translate the following sentence from Russian into English.
+День короткий, а работа трудна.
+to:
+The day is short and the work is","[' long.', ' hard.']",1
+"Translate the following sentence from Spanish into English.
+Hoy es el primer día del resto de tu vida.
+to:
+Today is the first day of the rest of your","[' lives.', ' life.']",0
+"Translate the following sentence from German into English.
+Langfristig sind wir alle gleich.
+to:
+In the long run we are all","[' dead.', ' equal.']",1
+"Translate the following sentence from Spanish into English.
+Es más seguro felicitar a los muertos que a los heridos.
+to:
+It's safer to commend the dead than the","[' wounded.', ' living.']",0
+"Translate the following sentence from Japanese into English.
+深い声が私に呼びかけます。
+to:
+Deep calls to","[' deep.', ' me.']",1
+"Translate the following sentence from Japanese into English.
+深い水の中で 最も深い水の中で最高の水泳です。
+to:
+In the deepest water is the best","[' fishing.', ' swimming.']",1
+"Translate the following sentence from French into English.
+La meilleure défense est une bonne défense.
+to:
+The best defence is a good","[' offence.', ' defence.']",1
+"Translate the following sentence from Chinese into English.
+拖延是经常发生的.
+to:
+Delays are","[' dangerous.', ' frequent.']",1
+"Translate the following sentence from Italian into English.
+C'è un pericolo.
+to:
+There is danger in","[' delay.', ' it.']",1
+"Translate the following sentence from Chinese into English.
+教区教堂。
+to:
+A parish","[' church.', ' demagogue.']",0
+"Translate the following sentence from Italian into English.
+Prima si merita, poi si prende.
+to:
+First deserve, then","[' desire.', ' take.']",1
+"Translate the following sentence from Korean into English.
+악마가 그 문을 막는 문을 찾으면 어디로 가야 할까요.
+to:
+Away goes the devil if he finds the door shut against","[' it.', ' him.']",0
+"Translate the following sentence from French into English.
+Donnez à la souris sa récompense.
+to:
+Give the devil his","[' due.', ' reward.']",1
+"Translate the following sentence from French into English.
+Les mains simples sont les outils du diabe.
+to:
+Idle hands are the devil's","[' tools.', ' playthings.']",0
+"Translate the following sentence from Chinese into English.
+如果你与魔鬼打交道, 用一根长棍.
+to:
+If you sup with the devil, use a long","[' spoon.', ' stick.']",1
+"Translate the following sentence from Russian into English.
+Поговорите с дьявола, и он обязательно заплатит.
+to:
+Talk of the devil and he's sure to","[' appear.', ' pay.']",1
+"Translate the following sentence from Chinese into English.
+在上帝有一个教堂的地方,魔鬼有一个教堂。
+to:
+Where God has a church the devil will have his","[' church.', ' chapel.']",0
+"Translate the following sentence from Italian into English.
+Chi scappa una trappola per gli altri finisce anche lì.
+to:
+Who digs a trap for others ends up in it","[' himself.', ' too.']",1
+"Translate the following sentence from Japanese into English.
+1オンの裁量は1ポンドの金の価値を有する。
+to:
+An ounce of discretion is worth a pound of","[' wit.', ' gold.']",1
+"Translate the following sentence from Spanish into English.
+La discreción es la mejor parte de ello.
+to:
+Discretion is the better part of","[' it.', ' valor.']",0
+"Translate the following sentence from French into English.
+Discussion: une méthode permettant de confirmer les autres dans leurs croyances.
+to:
+Discussion: a method of confirming others in their","[' beliefs.', ' errors.']",0
+"Translate the following sentence from Italian into English.
+Cure la malattia e uccidere il virus.
+to:
+Cure the disease and kill the","[' virus.', ' patient.']",0
+"Translate the following sentence from French into English.
+Les maladies désespérées doivent avoir des conséquences désespérées.
+to:
+Desperate diseases must have desperate","[' consequences.', ' remedies.']",0
+"Translate the following sentence from Chinese into English.
+我们都为自己的治疗而努力,因为死亡是万物的治疗。
+to:
+We all labour against our own cure, for death is the cure of all","[' diseases.', ' things.']",1
+"Translate the following sentence from Italian into English.
+È meglio andare che cadere in acqua.
+to:
+Better go about than fall into the","[' ditch.', ' water.']",1
+"Translate the following sentence from German into English.
+Tun Sie mit anderen, wie Sie möchten, dass sie tun mit sich selbst.
+to:
+Do unto others as you would have them do unto","[' you.', ' themselves.']",1
+"Translate the following sentence from Chinese into English.
+如果你想让某事做得正确,那么做得正确。
+to:
+If you want a thing done right, do it","[' right.', ' yourself.']",0
+"Translate the following sentence from French into English.
+Dieu guérit, et le médecin prend la cure.
+to:
+God heals, and the doctor takes the","[' fee.', ' cure.']",1
+"Translate the following sentence from German into English.
+Verstehe nichts von deinem Minister, Arzt und Freund, von deinem Minister, Arzt und Freund.
+to:
+Hide nothing from thy minister, physician and","[' lawyer.', ' friend.']",1
+"Translate the following sentence from Japanese into English.
+あなたの母に嘘をついてはならない。
+to:
+Never lie to your","[' mother.', ' doctor.']",0
+"Translate the following sentence from Spanish into English.
+Un can no saldrá si se le golpea con un bastón.
+to:
+A dog will not howl if you beat him with a","[' stick.', ' bone.']",0
+"Translate the following sentence from Korean into English.
+ 스태프는 사람을 때리는 것으로 빠르게 발견됩니다.
+to:
+A staff is quickly found to beat a","[' man.', ' dog.']",0
+"Translate the following sentence from Japanese into English.
+すべては、犬がのために bark  bark 犬の強盗ではありません。
+to:
+All are not thieves that dogs bark","[' for.', ' at.']",0
+"Translate the following sentence from German into English.
+Barking Hunde barken selten.
+to:
+Barking dogs seldom","[' bark.', ' bite.']",0
+"Translate the following sentence from Japanese into English.
+Bragは良い犬だが、fastfastはそうでない。
+to:
+Brag is a good dog, but holdfast is","[' not.', ' better.']",0
+"Translate the following sentence from Russian into English.
+Собаки стучать, но караван проходит.
+to:
+The dogs bark but the caravan passes","[' on.', ' by.']",1
+"Translate the following sentence from Russian into English.
+Собаки двигают свои хвосты, не столько для тебя, сколько для твоего лица.
+to:
+Dogs wags their tails, not as much to you as to your","[' face.', ' bread.']",0
+"Translate the following sentence from Russian into English.
+Каждая собака имеет своего хозяина.
+to:
+Every dog has his","[' day.', ' owner.']",1
+"Translate the following sentence from German into English.
+Geben Sie einem Hund einen schlechten Namen und hängen Sie ihn.
+to:
+Give a dog a bad name and hang","[' it.', ' him.']",0
+"Translate the following sentence from French into English.
+Donnez à un chien un mauvais nom et il y va.
+to:
+Give a dog a bad name and he'll live up to","[' it.', ' that.']",1
+"Translate the following sentence from Chinese into English.
+那个会把狗挂起来的家伙,首先宣布他已经死了。
+to:
+He that would hang his dog gives out first that he is","[' mad.', ' dead.']",1
+"Translate the following sentence from Italian into English.
+Se ci si siede con i cani, ci si siede con loro.
+to:
+If you lie down with dogs, you'll get up with","[' them.', ' fleas.']",0
+"Translate the following sentence from Korean into English.
+변수: 한 남자는 그가 운영하는 회사에 의해 알려져 있습니다.
+to:
+Variant: A man is known by the company he","[' keeps.', ' runs.']",1
+"Translate the following sentence from Russian into English.
+Это не размер собаки в бою, это размер боя в доме.
+to:
+It's not the size of the dog in the fight; it's the size of the fight in the","[' house.', ' dog.']",0
+"Translate the following sentence from Italian into English.
+Lasciare dormire i cani da dormire.
+to:
+Let sleeping dogs","[' sleep.', ' lie.']",0
+"Translate the following sentence from Korean into English.
+저를 사랑하세요, 나의 사랑을 사랑하세요.
+to:
+Love me, love my","[' love.', ' dog.']",0
+"Translate the following sentence from Italian into English.
+Mangi la tua carne da can.
+to:
+Eat your own dog","[' food.', ' meat.']",1
+"Translate the following sentence from Spanish into English.
+La puerta se abastece a ambos lados.
+to:
+The door swings both","[' ways.', ' times.']",1
+"Translate the following sentence from German into English.
+Wenn eine Tür schließt, öffnet sich eine andere Tür. Oder Gott schließt nie eine Tür, ohne sie zu öffnen.
+to:
+When one door closes, another door opens. or God never closes one door without opening","[' it.', ' another.']",0
+"Translate the following sentence from Korean into English.
+의심할 때, 시작합니다.
+to:
+When in doubt,","["" don't."", ' proceed.']",1
+"Translate the following sentence from Japanese into English.
+疑いがあるとき、そうしてください。
+to:
+When in doubt, do","[' nothing.', ' so.']",1
+"Translate the following sentence from Japanese into English.
+夢は速く過ぎる。
+to:
+Dreams go by","[' fast.', ' contraries.']",0
+"Translate the following sentence from Korean into English.
+끊임없는 낙하가 강도를 잃어버립니다.
+to:
+Constant dropping wears away the","[' strength.', ' stone.']",0
+"Translate the following sentence from Japanese into English.
+かつては酒鬼だったが、常に男だった。
+to:
+Once a drunkard always a","[' man.', ' drunkard.']",0
+"Translate the following sentence from Spanish into English.
+Si se parece a un pato, nace como un pato, y esquiva como un pato, y esquiva como un pato, entonces probablemente es una gosa.
+to:
+If it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a","[' duck.', ' goose.']",1
+"Translate the following sentence from Russian into English.
+Двухэтажник на плечах гиганта видит дальше города.
+to:
+Dwarf on a giant's shoulder sees farther of the","[' city.', ' two.']",0
+"Translate the following sentence from Chinese into English.
+在一个耳朵里,在另一个耳朵里,在另一个耳朵里,在另一个耳朵里。
+to:
+In at one ear and out at the","[' next.', ' other.']",0
+"Translate the following sentence from Japanese into English.
+あなたが言うことを注意してください。 壁が落ちました。
+to:
+Take heed what you say. Walls have","[' fallen.', ' ears.']",0
+"Translate the following sentence from Korean into English.
+bed and early to rise, early to rise, makes a man healthy, wealthy and happy, makes a man healthy, wealthy and happy.
+to:
+Early to bed and early to rise, makes a man healthy, wealthy and","[' happy.', ' wise.']",0
+"Translate the following sentence from Chinese into English.
+说得比做得更容易。
+to:
+Easier said than","[' done.', ' did.']",1
+"Translate the following sentence from Japanese into English.
+事実の後に賢くなれるのは簡単です。
+to:
+It's easy to be wise after the","[' event.', ' fact.']",1
+"Translate the following sentence from Chinese into English.
+良好的饮食值得良好的烹饪。
+to:
+Good eating deserves good","[' drinking.', ' cooking.']",1
+"Translate the following sentence from French into English.
+Vous ne saut pas où vous allez.
+to:
+You don't shit where you","[' go.', ' eat.']",0
+"Translate the following sentence from Japanese into English.
+イーブドロッパーはそれを良いと聞いていない。
+to:
+Eavesdroppers hear no good of","[' themselves.', ' it.']",1
+"Translate the following sentence from Italian into English.
+Istruzione: ciò che rivela ai saggi e disguisa dagli sciocchi la loro mancanza di conoscenza.
+to:
+Education: that which discloses to the wise and disguises from the foolish their lack of","[' understanding.', ' knowledge.']",1
+"Translate the following sentence from Italian into English.
+Un uovo oggi è meglio di un pollo oggi che una hen oggi.
+to:
+Better an egg today than a hen","[' today.', ' tomorrow.']",0
+"Translate the following sentence from Korean into English.
+여러분의 모든 알을 한 방에 넣지 마세요.
+to:
+Don't put all your eggs in one","[' basket.', ' bowl.']",1
+"Translate the following sentence from Chinese into English.
+卵子和誓言很快交换。
+to:
+Eggs and oaths are soon","[' broken.', ' exchanged.']",1
+"Translate the following sentence from German into English.
+Wer ein Ei stehlt, der ein Ei stehlt, wird ein Ei stehlen.
+to:
+He that steals an egg will steal an","[' egg.', ' ox.']",0
+"Translate the following sentence from German into English.
+Man kann keine Omelette haben, es sei denn, man verstößt gegen die Regeln.
+to:
+You can't have an omelette unless you break the","[' rules.', ' egg.']",0
+"Translate the following sentence from Russian into English.
+Эгонист: человек низкого вкуса, более заинтересованный в себе, чем в других.
+to:
+Egotist: a person of low taste, more interested in himself than in","[' me.', ' others.']",1
+"Translate the following sentence from Spanish into English.
+Los vasos empobrecidos son los más ruidosos.
+to:
+Empty vessels make the greatest","[' sound.', ' noise.']",1
+"Translate the following sentence from German into English.
+Was auch immer Sie tun, handeln Sie klug, und betrachten Sie die Folgen.
+to:
+Whatever you do, act wisely, and consider the","[' consequences.', ' end.']",0
+"Translate the following sentence from German into English.
+Denken Sie nicht, dass ein Feind unbedeutend ist, oder dass tausend Freunde zu wenig sind.
+to:
+Do not think that one enemy is insignificant, or that a thousand friends are too","[' few.', ' many.']",0
+"Translate the following sentence from Russian into English.
+""Враг моего врага - враг мой.
+to:
+The enemy of my enemy is my","[' friend.', ' enemy.']",1
+"Translate the following sentence from Japanese into English.
+あなたが敵を持たないなら、それは Fortune が私たちを忘れていたことを示す兆候です。
+to:
+If you have no enemies it is a sign that fortune has forgotten","[' you.', ' us.']",1
+"Translate the following sentence from Korean into English.
+작은 소녀는 없어요.
+to:
+There is no little","[' enemy.', ' girl.']",1
+"Translate the following sentence from Spanish into English.
+Nosotros llevamos nuestros mayores enemigos dentro de nosotros mismos.
+to:
+We carry our greatest enemies within","[' us.', ' ourselves.']",1
+"Translate the following sentence from Italian into English.
+L'energia è la Vita Eternale.
+to:
+Energy is Eternal","[' Life.', ' Delight.']",0
+"Translate the following sentence from Chinese into English.
+永恒与剧院的剧本相爱。
+to:
+Eternity is in love with the productions of","[' time.', ' theatre.']",1
+"Translate the following sentence from German into English.
+Jede Wolke hat eine silberne Farbe.
+to:
+Every cloud has a silver","[' lining.', ' color.']",1
+"Translate the following sentence from Japanese into English.
+一人ひとりの人間は、何が重要でも、何が重要でもないかもしれない。
+to:
+Every maybe hath a may not","[' matter.', ' be.']",0
+"Translate the following sentence from Italian into English.
+Ogni rosa ha i suoi petali.
+to:
+Every rose has its","[' thorn.', ' petals.']",1
+"Translate the following sentence from Italian into English.
+Tutti parlano del tempo, ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma.
+to:
+Everyone talks about the weather, but nobody does anything about","[' them.', ' it.']",0
+"Translate the following sentence from French into English.
+Ce que tout le monde dit doit être juste.
+to:
+What everybody says must be","[' true.', ' right.']",1
+"Translate the following sentence from German into English.
+Vermeiden Sie das Böse und es wird Schaden vermeiden.
+to:
+Avoid evil and it will avoid","[' thee.', ' harm.']",1
+"Translate the following sentence from Korean into English.
+나쁜 것은 좋은 것을 만듭니다.
+to:
+Evil begets","[' evil.', ' good.']",1
+"Translate the following sentence from Spanish into English.
+De dos evils elegir el primero.
+to:
+Of two evils choose the","[' first.', ' least.']",0
+"Translate the following sentence from Russian into English.
+На сегодняшний день достаточным является злой дух.
+to:
+Sufficient unto the day is the evil","[' spirit.', ' thereof.']",0
+"Translate the following sentence from Japanese into English.
+例は例より優れている。
+to:
+Example is better than","[' correction.', ' example.']",1
+"Translate the following sentence from German into English.
+Die Ausnahme beweist das Gegenteil.
+to:
+The exception proves the","[' rule.', ' opposite.']",1
+"Translate the following sentence from Spanish into English.
+Todas las experiencias son un arco, para construir confianza.
+to:
+All experience is an arch, to build","[' confidence.', ' upon.']",0
+"Translate the following sentence from Spanish into English.
+La experiencia es una revelación en la luz de la cual renunciamos a nuestros errores de juventud para los de la naturaleza.
+to:
+Experience is a revelation in the light of which we renounce our errors of youth for those of","[' age.', ' nature.']",1
+"Translate the following sentence from Japanese into English.
+経験は最高のものです。
+to:
+Experience is the best","[' teacher.', ' thing.']",1
+"Translate the following sentence from Chinese into English.
+那双眼睛看上去,但它是思考的心灵。
+to:
+The eye looks but it is the mind that","[' thinks.', ' sees.']",0
+"Translate the following sentence from Italian into English.
+Non tagliare il naso per tenerti i capelli.
+to:
+Don't cut off your nose to spite your","[' face.', ' hair.']",1
+"Translate the following sentence from Korean into English.
+공평한 놀이는 바보입니다.
+to:
+Fair play's a","[' bitch.', ' jewel.']",0
+"Translate the following sentence from Japanese into English.
+一般の名声は、来ないしばしば来る。
+to:
+Common fame is seldom to","[' blame.', ' come.']",1
+"Translate the following sentence from Japanese into English.
+準備する前に倒れてはいけない。
+to:
+Don't fall before you're","[' ready.', ' pushed.']",0
+"Translate the following sentence from German into English.
+Unsere größte Herrlichkeit ist nicht im nie fallenden, sondern im steigenden jedes Mal, wenn wir aufstehen.
+to:
+Our greatest glory is not in never falling but in rising every time we","[' rise.', ' fall.']",0
+"Translate the following sentence from Italian into English.
+Gli incidenti avverranno nel modo migliore.
+to:
+Accidents will happen in the best","[' way.', ' families.']",0
+"Translate the following sentence from French into English.
+loin de l'oeil, loin de la main.
+to:
+Far from eye, far from","[' heart.', ' hand.']",1
+"Translate the following sentence from Italian into English.
+Moda: un despot che i saggi ridicolano e ridicolano.
+to:
+Fashion: a despot whom the wise ridicule and","[' mock.', ' obey.']",0
+"Translate the following sentence from Spanish into English.
+La grasa está en el estómago.
+to:
+The fat is in the","[' stomach.', ' fire.']",0
+"Translate the following sentence from Korean into English.
+사랑에 관해서는 결함이 큽니다.
+to:
+Faults are thick where love is","[' concerned.', ' thin.']",0
+"Translate the following sentence from Spanish into English.
+No tenemos nada que temer, sino temernos a nosotros mismos.
+to:
+We have nothing to fear but fear","[' itself.', ' ourselves.']",1
+"Translate the following sentence from Russian into English.
+Лучше умереть на ногах, чем жить на руках.
+to:
+It is better to die on one's feet than live on one's","[' knees.', ' hands.']",1
+"Translate the following sentence from Japanese into English.
+良いフェンスは良い馬を作る良いフェンス。
+to:
+Good fences make good","[' horses.', ' neighbors.']",0
+"Translate the following sentence from Chinese into English.
+先来,先去,先走。
+to:
+First come, first","[' go.', ' served.']",0
+"Translate the following sentence from Chinese into English.
+健康的第一步是知道我们健康。
+to:
+The first step to health is to know that we are","[' healthy.', ' sick.']",0
+"Translate the following sentence from Chinese into English.
+第一,第一,第一,第一。
+to:
+First things","[' first.', ' First.']",1
+"Translate the following sentence from Chinese into English.
+如果你一开始没有成功,试着,试着更努力。
+to:
+If at first you don't succeed, try, try","[' harder.', ' again.']",0
+"Translate the following sentence from French into English.
+Le dernier sera le premier et le premier le deuxième.
+to:
+The last will be first, and the first","[' last.', ' second.']",1
+"Translate the following sentence from Italian into English.
+L'amore non è trovare qualcuno con cui vivere; è trovare qualcuno per cui non puoi vivere.
+to:
+Love is not finding someone to live with; it's finding someone whom you can't live","[' for.', ' without.']",0
+"Translate the following sentence from Russian into English.
+Поиск и вы будете искать.
+to:
+Seek and ye shall","[' find.', ' seek.']",1
+"Translate the following sentence from Spanish into English.
+Siempre encontramos algo en el último lugar al que vas.
+to:
+You always find something in the last place you","[' look.', ' go.']",1
+"Translate the following sentence from Chinese into English.
+一个烧伤的孩子害怕火焰.
+to:
+A burnt child dreads the","[' fire.', ' flames.']",1
+"Translate the following sentence from Spanish into English.
+No añadan aceite a la mezcla.
+to:
+Do not add oil to the","[' fire.', ' mixture.']",1
+"Translate the following sentence from Italian into English.
+Combatte il fuoco con le fiamme.
+to:
+Fight fire with","[' flames.', ' fire.']",0
+"Translate the following sentence from Korean into English.
+연료가 없는 불은 없습니다.
+to:
+No fire without some","[' smoke.', ' fuel.']",1
+"Translate the following sentence from Korean into English.
+담배 없이는 담배가 없습니다.
+to:
+There is no smoke without","[' fire.', ' smoke.']",1
+"Translate the following sentence from Japanese into English.
+すべての魚は海に来る魚である。
+to:
+All is fish that comes to the","[' net.', ' sea.']",1
+"Translate the following sentence from French into English.
+Donnez à un homme un poisson et vous le nourrissez pour un jour. Enseignez à un homme un poisson et vous le nourrissez pour un jour.
+to:
+Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a","[' day.', ' lifetime.']",0
+"Translate the following sentence from German into English.
+Es gibt so viele gute Fische im Meer, wie es jemals gab.
+to:
+There are as good fish in the sea as ever were","[' caught.', ' there.']",1
+"Translate the following sentence from Chinese into English.
+如果你能找到它,就自拔吧。
+to:
+If you got it, flaunt","[' it.', ' yourself.']",1
+"Translate the following sentence from Korean into English.
+움직임과 함께 하세요.
+to:
+Go with the","[' flow.', ' impulse.']",1
+"Translate the following sentence from Korean into English.
+저에게 말해주세요.
+to:
+Say it with","[' me.', ' flowers.']",0
+"Translate the following sentence from Russian into English.
+Вы можете Catch more flies with a drop of honey than with a barrel of oil. Вы можете Catch more flies with a drop of honey than with a barrel of oil.
+to:
+You can catch more flies with a drop of honey than with a barrel of","[' oil.', ' vinegar.']",0
+"Translate the following sentence from Russian into English.
+А тупой всегда родился.
+to:
+A fool is ever","[' born.', ' laughing.']",0
+"Translate the following sentence from Korean into English.
+멍청한 사람은 현명한 사람이 본 나무와 같은 나무를 보지 못합니다.
+to:
+A fool sees not the same tree that a wise man","[' sees.', ' saw.']",1
+"Translate the following sentence from French into English.
+Par tous, il est mieux stupide qu'il n'est pas sage par personne.
+to:
+Better foolish by all than wise by","[' yourself.', ' none.']",1
+"Translate the following sentence from Italian into English.
+È meglio rimanere silenziosi e essere considerati stupidi che aprire la bocca e togliere tutte le parole.
+to:
+Better to remain silent and be thought a fool, than to open your mouth and remove all","[' doubt.', ' words.']",1
+"Translate the following sentence from Spanish into English.
+Los idiotas viven pobres para morir ricos.
+to:
+Fools live poor to die","[' wealthy.', ' rich.']",0
+"Translate the following sentence from Italian into English.
+Il primo capitolo dei sciocchi è pensare di essere stupidi.
+to:
+The first chapter of fools is to think themselves","[' wise.', ' stupid.']",1
+"Translate the following sentence from Italian into English.
+Ogni idiota è soddisfatto del suo lavoro.
+to:
+Every fool is pleased with his own","[' folly.', ' work.']",1
+"Translate the following sentence from Japanese into English.
+私を一度愚かし、あなたを恥じさせる。
+to:
+Fool me once, shame on you. Fool me twice, shame on","[' me.', ' you.']",1
+"Translate the following sentence from Korean into English.
+멍청한 사람들은 천사들이 갈 것을 두려워하는 곳으로 뛰어들어 갑니다.
+to:
+Fools rush in where angels fear to","[' go.', ' tread.']",0
+"Translate the following sentence from Spanish into English.
+Es un toro que olvida todo.
+to:
+He is a fool that forgets","[' everything.', ' himself.']",0
+"Translate the following sentence from Korean into English.
+확신을 떠나 운수에 매달리고 확률을 남겨두는 사람이죠. 멍청이 파이프를 만들 때, 그는 이길 수 있습니다.
+to:
+He that leaves certainty and sticks to chance,<br> When fools pipe, he may","[' win.', ' dance.']",0
+"Translate the following sentence from Korean into English.
+만약 이 멍청이 그의 멍청함을 계속 유지한다면, 그는 왕이 될 것입니다.
+to:
+If the fool would persist in his folly he would become","[' wise.', ' king.']",1
+"Translate the following sentence from Chinese into English.
+强盗和傻瓜把土地分开.
+to:
+Knaves and fools divide the","[' land.', ' world.']",0
+"Translate the following sentence from Spanish into English.
+La follia natural es suficientemente mala, pero la follia aprendida es peor.
+to:
+Natural folly is bad enough, but learned folly is","[' intolerable.', ' worse.']",1
+"Translate the following sentence from French into English.
+Une langue d'un idiot carve un morceau de son coeur pour tous les siéger près de lui.
+to:
+A tongue of a fool carves a piece of his heart to all sit near","[' him.', ' to.']",1
+"Translate the following sentence from Chinese into English.
+最后的傻瓜从来没来。
+to:
+The last fool never","[' dies.', ' came.']",1
+"Translate the following sentence from German into English.
+Es ist kein Narr wie ein alter Mann.
+to:
+There's no fool like an old","[' fool.', ' man.']",1
+"Translate the following sentence from Japanese into English.
+賢い人は心を変えるが、愚かな人は決して変えない。
+to:
+A wise man changes his mind, but a fool never","[' does.', ' will.']",1
+"Translate the following sentence from Russian into English.
+Предназначен, но не.
+to:
+Forewarned,","[' forearmed.', ' no.']",1
+"Translate the following sentence from Spanish into English.
+Permitir y permitir.
+to:
+Forgive and","[' forgive.', ' forget.']",0
+"Translate the following sentence from Russian into English.
+Испытать ошибку – это человек, простить – это.
+to:
+To err is human, to forgive","[' divine.', ' is.']",1
+"Translate the following sentence from Spanish into English.
+Si la fortuna es favorable, se abstenga de ser exaltada; si la fortuna soa, se abstenga de ser ridiculada.
+to:
+If fortune favours, beware of being exalted; if fortune thunders, beware of being","[' mocked.', ' overwhelmed.']",0
+"Translate the following sentence from Italian into English.
+Fuori', dice la fox, quando picchiava sul terreno.
+to:
+Fire, quoth the fox, when he pissed on the","[' ice.', ' ground.']",1
+"Translate the following sentence from Japanese into English.
+fox を羊の心に置き、fox を羊の心に置く。
+to:
+Set the fox to mind the","[' geese.', ' sheep.']",1
+"Translate the following sentence from Italian into English.
+Il fox, quando non riesce a raggiungere le erbe, dice che non sono edibibili.
+to:
+The fox, when he cannot reach the grapes, says they are not","[' ripe.', ' edible.']",1
+"Translate the following sentence from Italian into English.
+Un amico non può essere conosciuto nella prosperità né un nemico nascosto nella paura.
+to:
+A friend cannot be known in prosperity nor an enemy be hidden in","[' fear.', ' adversity.']",0
+"Translate the following sentence from Chinese into English.
+一个朋友最好在麻烦中找到.
+to:
+A friend is best found in","[' adversity.', ' trouble.']",1
+"Translate the following sentence from Russian into English.
+Друг, нуждающийся в помощи, — потерянный друг.
+to:
+A friend in need is a friend","[' lost.', ' indeed.']",0
+"Translate the following sentence from Russian into English.
+Хороший друг никогда не умирает.
+to:
+A good friend never","[' dies.', ' offends.']",0
+"Translate the following sentence from German into English.
+Ein wahrer Freund versucht manchmal, allein zu sein.
+to:
+A true friend does sometime venture to be","[' offensive.', ' alone.']",1
+"Translate the following sentence from Korean into English.
+화합된 친구는 두 개의 행위자입니다.
+to:
+A reconciled friend is a double","[' enemy.', ' agent.']",1
+"Translate the following sentence from French into English.
+Tous ne sont pas des amis qui parlent une seule langue.
+to:
+All are not friends who speak one","[' language.', ' fair.']",0
+"Translate the following sentence from Korean into English.
+스스로에게 친구가 되어라, 다른 사람들은 당신과 친구가 될 것입니다.
+to:
+Be a friend to thyself, and others will befriend","[' you.', ' thee.']",0
+"Translate the following sentence from Korean into English.
+얻은 친구는 이제 친구가 아닙니다.
+to:
+Bought friends are not friends","[' anymore.', ' indeed.']",0
+"Translate the following sentence from Chinese into English.
+不要认为一个敌人是微不足道的,或者一千朋友是太少的。
+to:
+Do not think that one enemy is insignificant, or that a thousand friends are too","[' many.', ' few.']",1
+"Translate the following sentence from Italian into English.
+Gli amici falsi sono peggiori di quelli aperti.
+to:
+False friends are worse than open","[' ones.', ' enemies.']",0
+"Translate the following sentence from French into English.
+Les amis sont perdus en appelant souvent et en appelant de nouveau.
+to:
+Friends are lost by calling often and calling","[' back.', ' seldom.']",0
+"Translate the following sentence from Russian into English.
+Друзья являются ворами душ.
+to:
+Friends are thieves of","[' time.', ' souls.']",1
+"Translate the following sentence from Japanese into English.
+彼は私の友人で、私の内側で苦しむ私の友人です。
+to:
+He is my friend who grinds at my","[' mill.', ' insides.']",1
+"Translate the following sentence from Japanese into English.
+彼は私の友人であり、あなたがたを悲しむのではなく、私を助ける私の友人であり、あなたを悲しむ私の友人である。
+to:
+He is my friend that succoreth me, not he that pitieth","[' you.', ' me.']",0
+"Translate the following sentence from Chinese into English.
+如果你想敌人比别人更出色,如果你想朋友让别人比别人更出色,如果你想朋友让别人比别人更出色。
+to:
+If you want enemies excel others, if you want friends let others excel","[' you.', ' others.']",1
+"Translate the following sentence from French into English.
+C'est un bon ami qui donne toujours, même s'il n'est jamais aussi gentil.
+to:
+It is a good friend that is always giving, though it be never so","[' kind.', ' little.']",0
+"Translate the following sentence from Italian into English.
+È bello avere degli amici sia nel cielo che in terra.
+to:
+It is good to have some friends both in heaven and","[' earth.', ' hell.']",0
+"Translate the following sentence from Chinese into English.
+不再是抚养者,不再是照顾者。
+to:
+No longer foster, no longer","[' friend.', ' care.']",1
+"Translate the following sentence from Korean into English.
+우리의 친구들은 우리의 거울이고, 우리에게 모든 것을 보여줍니다.
+to:
+Our friends are our mirrors and show us","[' ourselves.', ' everything.']",1
+"Translate the following sentence from Korean into English.
+완벽한 우정은 단점 없이는 안될 수 없습니다.
+to:
+Perfect friendship cannot be without","[' flaws.', ' equality.']",0
+"Translate the following sentence from Korean into English.
+당신의 친구가 질문할 때, 의심하지 마세요.
+to:
+When thy friend asks, let there be no","[' doubt.', ' to-morrow.']",0
+"Translate the following sentence from French into English.
+Les fruits tués sont la norme.
+to:
+Stolen fruit is the","[' norm.', ' sweetest.']",0
+"Translate the following sentence from Japanese into English.
+あなたは、その根から木を知っている。
+to:
+You know the tree by its","[' roots.', ' fruit.']",0
+"Translate the following sentence from Chinese into English.
+垃圾进, 垃圾出.
+to:
+Garbage in, garbage","[' out.', ' off.']",1
+"Translate the following sentence from Italian into English.
+Un uomo di parole, non di atti, è come un giardino pieno di fiori.
+to:
+A man of words and not of deeds, is like a garden full of","[' weeds.', ' flowers.']",1
+"Translate the following sentence from Japanese into English.
+天才は1パーセントのインスピレーションと999パーセントのインスピレーションで1パーセントのインスピレーションである。
+to:
+Genius is one percent inspiration and ninety nine percent","[' inspiration.', ' perspiration.']",0
+"Translate the following sentence from Russian into English.
+Для создания гнезда требуется три поколения.
+to:
+It takes three generations to make a","[' gentleman.', ' nest.']",1
+"Translate the following sentence from Spanish into English.
+Una vez un caballero, siempre una señora.
+to:
+Once a gentleman, always a","[' gentleman.', ' lady.']",1
+"Translate the following sentence from German into English.
+Geben und nehmen ist ein faires Spiel.
+to:
+Give and take is fair","[' game.', ' play.']",0
+"Translate the following sentence from German into English.
+Geben Sie Kredit, wo Kredit erforderlich ist.
+to:
+Give credit where credit is","[' due.', ' needed.']",1
+"Translate the following sentence from Italian into English.
+Dagli un chicchino e lui fa un passo.
+to:
+Give him an inch and he'll take a","[' yard.', ' step.']",1
+"Translate the following sentence from Chinese into English.
+他给了两个人,谁 gives in a second,他 gives twice.
+to:
+He gives twice who gives in a","[' trice.', ' second.']",1
+"Translate the following sentence from Korean into English.
+칭찬을 따르면, 피할 것이며, 칭찬을 피할 것이며, 칭찬을 따르면, 피할 것이며, 칭찬을 따르면, 피할 것이며, 칭찬을 따르는 것이며,
+to:
+Follow glory and it will flee, flee glory and it will follow","[' thee.', ' glory.']",1
+"Translate the following sentence from Chinese into English.
+不要在树和房子之间走。
+to:
+Don't go between the tree and the","[' bark.', ' house.']",1
+"Translate the following sentence from Chinese into English.
+凡事周转的都是周转的。
+to:
+What goes around comes","[' round.', ' around.']",0
+"Translate the following sentence from French into English.
+Ce qui se déplace doit revenir.
+to:
+What goes up must come","[' down.', ' back.']",1
+"Translate the following sentence from Italian into English.
+Quando le cose vanno male, le cose vanno male fuori.
+to:
+When the going gets tough, the tough get","[' going.', ' out.']",1
+"Translate the following sentence from Japanese into English.
+神は治癒し、医者は治癒を取ります。
+to:
+God heals, and the doctor takes the","[' fee.', ' cure.']",1
+"Translate the following sentence from Korean into English.
+신은 부자들을 도와주고, 가난한 사람들은 도와줄 수 있습니다.
+to:
+God helps the rich, the poor can","[' help.', ' beg.']",0
+"Translate the following sentence from German into English.
+Gott ist Gott, und alles ist gut.
+to:
+God is, and all is","[' well.', ' good.']",1
+"Translate the following sentence from Italian into English.
+Dio è sul lato del più forte uomo.
+to:
+God is on the side of the strongest","[' man.', ' battalions.']",0
+"Translate the following sentence from Japanese into English.
+神は私たちに富を送り出します。
+to:
+God sends fortune to","[' us.', ' fools.']",0
+"Translate the following sentence from Chinese into English.
+上帝在神秘的地方工作。
+to:
+God works in mysterious","[' ways.', ' places.']",1
+"Translate the following sentence from German into English.
+Gott ist ein guter Gott.
+to:
+God's a good","[' man.', ' God.']",1
+"Translate the following sentence from Japanese into English.
+神が滅ぼす者を、神は最初に造り出します。
+to:
+Whom God will destroy, he first make","[' him.', ' mad.']",0
+"Translate the following sentence from German into English.
+Alles, was glänzend ist, ist nicht Gold. oder Alles, was glänzend ist, ist nicht Silber.
+to:
+All that glisters is not gold. or All that glitters is not","[' gold.', ' silver.']",1
+"Translate the following sentence from Russian into English.
+Все добрые вещи должны прийти к концу.
+to:
+All good things must come to an","[' end.', ' End.']",1
+"Translate the following sentence from Chinese into English.
+人生中的任何善事都是非法、不道德或不道德的。
+to:
+Anything good in life is either illegal, immoral or","[' fattening.', ' not.']",1
+"Translate the following sentence from Korean into English.
+만약 그 소리가 진실하기 위해 너무 좋게 들리면, 아마 그럴겁니다.
+to:
+If it sounds too good to be true, it probably","[' is.', ' does.']",1
+"Translate the following sentence from German into English.
+Wenn ihr nicht gut sein könnt, dann seid gut, wenn ihr nicht gut sein könnt, seid gut.
+to:
+If you can't be good, be","[' careful.', ' good.']",1
+"Translate the following sentence from Spanish into English.
+Solo los buenos viven duro.
+to:
+Only the good die","[' young.', ' hard.']",1
+"Translate the following sentence from Chinese into English.
+富人看起来很快乐, 伟大, 聪明, 好人只想得到的一切,而富人看起来很快乐, 伟大, 聪明, 好人只想得到的一切.
+to:
+Rich men seem happy, great and wise, all which the good man only","[' is.', ' wants.']",1
+"Translate the following sentence from Italian into English.
+I migliori beni sono i più economici al mondo.
+to:
+The best goods are cheapest in the","[' end.', ' world.']",1
+"Translate the following sentence from Spanish into English.
+No matas la goza que deposita las semillas de oro.
+to:
+Don't kill the goose that lays the golden","[' seeds.', ' eggs.']",0
+"Translate the following sentence from Russian into English.
+Каждому человеку кажется, что у него есть свой собственный роговый мух.
+to:
+Every man thinks his own geese","[' swans.', ' fly.']",1
+"Translate the following sentence from Russian into English.
+Гус, гандер и гуслинг являются тремя звуками, но одним словом.
+to:
+Goose, gander and gosling are three sounds but one","[' thing.', ' word.']",1
+"Translate the following sentence from Spanish into English.
+Lo que es bueno para el ganado es bueno para el ganado.
+to:
+What's good for the goose is good for the","[' gander.', ' goose.']",1
+"Translate the following sentence from Korean into English.
+소문을 잘 즐깁니다. 소문을 잘 즐깁니다.
+to:
+Gossip is vice enjoyed","[' vicariously.', ' well.']",1
+"Translate the following sentence from Japanese into English.
+あなたがたに口を吐く者は、彼らに口を吐くであろう。
+to:
+Whoever gossips to you will gossip of","[' them.', ' you.']",0
+"Translate the following sentence from French into English.
+Ce gouvernement est le meilleur, et ceux qui gouvernent le mieux sont les meilleurs.
+to:
+That government is best which governs","[' best.', ' least.']",0
+"Translate the following sentence from Russian into English.
+С другой стороны, трава всегда зеленее.
+to:
+The grass is always greener on the other","[' side.', ' hand.']",1
+"Translate the following sentence from Japanese into English.
+すべてを把握し、何も失うことはありません。
+to:
+Grasp all, lose","[' nothing.', ' all.']",0
+"Translate the following sentence from Korean into English.
+위대한 사건들이 그에게 그림자를 던졌고, 위대한 사건들이 그에게 그림자를 던졌습니다.
+to:
+Great events cast their shadows before","[' them.', ' him.']",1
+"Translate the following sentence from Chinese into English.
+伟大的人想。
+to:
+Great minds","[' agree.', ' think.']",1
+"Translate the following sentence from French into English.
+Les grands esprits ont toujours été confrontés à une opposition violente de la part des gens moyens.
+to:
+Great spirits have always encountered violent opposition from mediocre","[' minds.', ' people.']",1
+"Translate the following sentence from Spanish into English.
+Una conciencia culpable no necesita ninguna explicación.
+to:
+A guilty conscience needs no","[' accuser.', ' explanation.']",1
+"Translate the following sentence from Japanese into English.
+ギリシャ人は剣を持っており、ギリシャ人は剣を持っていないことを注意してください。
+to:
+Beware of Greeks bearing","[' gifts.', ' swords.']",1
+"Translate the following sentence from Japanese into English.
+ハビットは素晴らしいことです。
+to:
+Habit is a great","[' thing.', ' deadener.']",0
+"Translate the following sentence from Korean into English.
+절대로 혼자서 일을 하지 마세요.
+to:
+Never do things by","[' halves.', ' yourself.']",1
+"Translate the following sentence from Japanese into English.
+右の手は、左の手が何を思っているか、右の手が何を思っているか、決して知らせてはいけない。
+to:
+Never let the right hand know what the left hand is","[' doing.', ' thinking.']",1
+"Translate the following sentence from Chinese into English.
+一个手洗盘子.
+to:
+One hand washes the","[' other.', ' dishes.']",1
+"Translate the following sentence from Spanish into English.
+Handsome es ese rostro handsome.
+to:
+Handsome is that handsome","[' face.', ' does.']",0
+"Translate the following sentence from French into English.
+Le drumming n'est pas le moyen de prendre une pause.
+to:
+Drumming is not the way to catch a","[' break.', ' hare.']",0
+"Translate the following sentence from Spanish into English.
+No hay que correr tras dos haras en el mismo momento.
+to:
+You must not run after two hares at the same","[' time.', ' moment.']",1
+"Translate the following sentence from German into English.
+Machen Sie jetzt schnell.
+to:
+Make haste","[' now.', ' slowly.']",0
+"Translate the following sentence from German into English.
+Haste macht Fortschritte.
+to:
+Haste makes","[' waste.', ' progress.']",1
+"Translate the following sentence from Korean into English.
+호크는 호크의 얼굴을 뽑아내지 못할 것입니다.
+to:
+Hawks will not pick out Hawk's","[' eyes.', ' face.']",1
+"Translate the following sentence from German into English.
+Wer geduldig sein kann, kann das haben, was er will.
+to:
+He that can have patience can have what he","[' will.', ' wants.']",1
+"Translate the following sentence from Chinese into English.
+两头的头比任何头都好。
+to:
+Two heads are better than","[' one.', ' none.']",1
+"Translate the following sentence from Korean into English.
+우리는 젊은 얼굴에 늙은 얼굴을 젊은 얼굴에 찾으려고 기대하지 않아야 합니다.
+to:
+We should not expect to find old heads on young","[' faces.', ' shoulders.']",0
+"Translate the following sentence from French into English.
+Lorsque la tête est malade, l'ensemble du corps est affecté.
+to:
+When the head is sick, the whole body is","[' sick.', ' affected.']",1
+"Translate the following sentence from Spanish into English.
+Lo que queda corto en la cabeza debe ser largo en el cuerpo.
+to:
+Who falls short in the head must be long in the","[' body.', ' heels.']",0
+"Translate the following sentence from French into English.
+La santé est meilleure que la vie.
+to:
+Health is better than","[' life.', ' wealth.']",0
+"Translate the following sentence from German into English.
+Gesundheit ist gut.
+to:
+Health is","[' good.', ' wealth.']",0
+"Translate the following sentence from Korean into English.
+건강을 돌보는 데 너무 바쁘는 사람은 마치 자동차를 돌보는 데 너무 바쁘는 기계처럼 됩니다.
+to:
+A man too busy to take care of his health is like a mechanic too busy to take care of his","[' tools.', ' car.']",1
+"Translate the following sentence from Russian into English.
+Сердце видит дальше, чем глаз.
+to:
+The heart sees farther than the","[' eye.', ' head.']",0
+"Translate the following sentence from Chinese into English.
+朋友之间的隔离使朋友彼此隔离.
+to:
+A hedge between keeps friends","[' green.', ' apart.']",1
+"Translate the following sentence from Korean into English.
+남자들은 거미줄이 높은 곳을 넘어서 뛰어갑니다.
+to:
+Men leap over where the hedge is","[' high.', ' lower.']",0
+"Translate the following sentence from Japanese into English.
+あなたがたは、あなたがたが知らないことを、あなたがたが知らないものを、あなたがたは見つからないことに注意してください。
+to:
+Take heed you find not what you do not","[' seek.', ' know.']",1
+"Translate the following sentence from Korean into English.
+그리고 여기를 제외하고는 다른 어떤 장소에도 적합하지 않아요.
+to:
+And thou unfit for any place but","[' here.', ' hell.']",0
+"Translate the following sentence from Russian into English.
+Come hell or high heaven. Come hell or high heaven.
+to:
+Come hell or high","[' heaven.', ' water.']",0
+"Translate the following sentence from Japanese into English.
+地獄は空き、悪魔はすべて消え去った。
+to:
+Hell is empty and all the devils are","[' gone.', ' here.']",0
+"Translate the following sentence from German into English.
+Der Weg zur Hölle wird mit Glück gepflastert.
+to:
+The road to hell is paved with good","[' luck.', ' intentions.']",0
+"Translate the following sentence from Russian into English.
+Но то, что выходит за пределы моей помощи, выходит за пределы моего контроля.
+to:
+But what is past my help, is past my","[' control.', ' care.']",0
+"Translate the following sentence from Spanish into English.
+Todas las pequeñas cosas.
+to:
+Every little","[' thing.', ' helps.']",0
+"Translate the following sentence from French into English.
+Celui qui hésite est condamné.
+to:
+He who hesitates is","[' doomed.', ' lost.']",0
+"Translate the following sentence from Japanese into English.
+もし、丘がマホメットに来ることができないなら、マホメットは山に行きます。
+to:
+If the hill will not come to Mahomet, Mahomet will go to the","[' mountain.', ' hill.']",0
+"Translate the following sentence from Spanish into English.
+El Hindsight siempre está ahí.
+to:
+Hindsight is always","[' twenty-twenty.', ' there.']",1
+"Translate the following sentence from Korean into English.
+역사는 반복됩니다.
+to:
+History repeats","[' themselves.', ' itself.']",0
+"Translate the following sentence from German into English.
+Wenn du in einem Loch bist, stopst dich nicht zu bewegen.
+to:
+If you're in a hole, stop","[' moving.', ' digging.']",0
+"Translate the following sentence from Chinese into English.
+家庭是心灵的所在。
+to:
+Home is where the heart","[' is.', ' lies.']",1
+"Translate the following sentence from Spanish into English.
+No hay ningún lugar como éste.
+to:
+There's no place like","[' it.', ' home.']",0
+"Translate the following sentence from Russian into English.
+Что такое честь? Слово. Что такое слово, честь? честь.
+to:
+What is honour? a word. What is that word, honour?","[' Air.', ' honour.']",1
+"Translate the following sentence from German into English.
+Hope ist ein gutes Frühstück, aber es ist ein schlechtes Frühstück.
+to:
+Hope is a good breakfast, but it is a bad","[' one.', ' supper.']",0
+"Translate the following sentence from French into English.
+Une node est aussi bonne qu'un regard à un homme aveugle qu'une node à un homme aveugle.
+to:
+A nod's as good as a wink to a blind","[' man.', ' horse.']",0
+"Translate the following sentence from French into English.
+Ne changez pas les chevaux en public.
+to:
+Don't change horses in","[' midstream.', ' public.']",1
+"Translate the following sentence from Spanish into English.
+No ponga el coche delante del hombre.
+to:
+Don't put the cart before the","[' horse.', ' man.']",1
+"Translate the following sentence from Korean into English.
+wish가 horses 였다면, beggars 는 왔고, beggars 는 왔습니다.
+to:
+If wishes were horses, beggars would","[' come.', ' ride.']",0
+"Translate the following sentence from French into English.
+Je l'entends de l'oreille du cheval.
+to:
+I'll hear it from the horse's","[' mouth.', ' ears.']",1
+"Translate the following sentence from Italian into English.
+È un buon cavallo che non fallisce mai.
+to:
+It's a good horse that never","[' fails.', ' stumbles.']",0
+"Translate the following sentence from Chinese into English.
+不要在眼睛里看一个礼物马,不要看一个礼物马。
+to:
+Look not a gift horse in the","[' eyes.', ' mouth.']",0
+"Translate the following sentence from Italian into English.
+Non guardate mai un cavallo d'affari negli occhi.
+to:
+Never look a gift horse in the","[' eye.', ' mouth.']",0
+"Translate the following sentence from German into English.
+Ein goldenes Stück macht den Pferd nicht glücklicher.
+to:
+A golden bit does not make the horse any","[' better.', ' happier.']",1
+"Translate the following sentence from Italian into English.
+Si può portare un cavallo verso l'acqua, ma non si può farlo nuotare.
+to:
+You can lead a horse to water but you can't make it","[' drink.', ' sink.']",1
+"Translate the following sentence from German into English.
+Zeal ohne Wissen ohne Wissen ist ein entkommender Staat.
+to:
+Zeal without knowledge is a runaway","[' horse.', ' state.']",1
+"Translate the following sentence from Russian into English.
+Гостеприимство: добродетель, который побуждает нас кормить и размещать определённых лиц, которые не нуждаются в пищу и убежище.
+to:
+Hospitality: the virtue which induces us to feed and lodge certain persons who are not in need of food and","[' shelter.', ' lodging.']",0
+"Translate the following sentence from Spanish into English.
+Todo está pronto preparado de forma bien organizada.
+to:
+All things are soon prepared in a well ordered","[' manner.', ' house.']",0
+"Translate the following sentence from Russian into English.
+Мой дом — мой дом.
+to:
+My house is my","[' home.', ' castle.']",0
+"Translate the following sentence from Japanese into English.
+ガラス家に住んでいる人々は、投げ捨てるべきではありません。
+to:
+People who live in glass houses shouldn't throw","[' stones.', ' up.']",1
+"Translate the following sentence from Russian into English.
+Восприятие является дочерью Hon.
+to:
+Admiration is the daughter of","[' Hon.', ' ignorance.']",0
+"Translate the following sentence from Chinese into English.
+无知是死亡.
+to:
+Ignorance is","[' death.', ' bliss.']",0
+"Translate the following sentence from German into English.
+Die Unwissen lieben immer, was sie nicht haben können, was sie nicht haben können.
+to:
+The ignorant always adore what they cannot","[' understand.', ' have.']",1
+"Translate the following sentence from French into English.
+Là où l'ignorance est bliss, c'est folly d'être ignorant.
+to:
+Where ignorance is bliss, 'tis folly to be","[' wise.', ' ignorant.']",1
+"Translate the following sentence from Russian into English.
+Имитация является высшей формой сознания.
+to:
+Imiation is the highest form of","[' flattery.', ' consciousness.']",1
+"Translate the following sentence from Russian into English.
+Безумие делает то же самое снова и снова, ожидая разных результатов.
+to:
+Insanity is doing the same thing over and over, expecting different","[' results.', ' outcomes.']",1
+"Translate the following sentence from Spanish into English.
+No hay demasiados ferros en la caja.
+to:
+Don't have too many irons in the","[' fire.', ' shed.']",1
+"Translate the following sentence from Korean into English.
+철은 철을 날카롭게 만듭니다.
+to:
+Iron sharpens","[' iron.', ' steel.']",1
+"Translate the following sentence from Spanish into English.
+Siempre es bueno que un hombre tenga dos ferros en la mano.
+to:
+It is always good when a man has two irons in the","[' hand.', ' fire.']",0
+"Translate the following sentence from French into English.
+S'attaquer pendant que le fer est chaud, ou faire du maïs pendant que le soleil sort.
+to:
+Strike while the iron is hot. or Make hay while the sun","[' rises.', ' shines.']",0
+"Translate the following sentence from French into English.
+Aucun homme n'est un animal.
+to:
+No man is an","[' animal.', ' island.']",0
+"Translate the following sentence from German into English.
+Wenn es einen Job wert ist, zu tun, ist es wert, es zu tun.
+to:
+If a job is worth doing, it is worth doing","[' it.', ' well.']",0
+"Translate the following sentence from Chinese into English.
+分享 Joy, 分享 joy, 分享 joy, 分享 sorrow, 分享 sorrow, 分享 sorrow.
+to:
+Joy shared, joy doubled: sorrow shared, sorrow","[' halved.', ' doubled.']",1
+"Translate the following sentence from Japanese into English.
+ハスティの判断は失敗につながります。
+to:
+Hasty judgment leads to","[' repentance.', ' failure.']",1
+"Translate the following sentence from Korean into English.
+늦은 정의는 늦은 정의입니다.
+to:
+Justice delayed is justice","[' delayed.', ' denied.']",0
+"Translate the following sentence from Korean into English.
+정의는 소수의 사람들을 자신만의 방식으로 만족시킵니다.
+to:
+Justice pleaseth few in their own","[' way.', ' house.']",0
+"Translate the following sentence from Italian into English.
+Senza giustizia, il coraggio è inutile, senza giustizia, il coraggio è inutile.
+to:
+Without justice, courage is","[' weak.', ' useless.']",1
+"Translate the following sentence from Russian into English.
+Милость, как зерно, возрастает с течением времени.
+to:
+Kindness, like grain, increases by","[' time.', ' sowing.']",0
+"Translate the following sentence from French into English.
+Gardez vos amis proches, mais vos ennemis lointains.
+to:
+Keep your friends close, but your enemies","[' closer.', ' distant.']",1
+"Translate the following sentence from French into English.
+Le roi ne peut plus faire.
+to:
+The king can do no","[' more.', ' wrong.']",0
+"Translate the following sentence from Japanese into English.
+それを知っている。
+to:
+Know","[' thyself.', ' it.']",1
+"Translate the following sentence from Chinese into English.
+学习是眼睛的眼睛。
+to:
+Learning is the eye of the","[' eye.', ' mind.']",0
+"Translate the following sentence from French into English.
+Une bonne esprit possède un but.
+to:
+A good mind possesses a","[' kingdom.', ' purpose.']",1
+"Translate the following sentence from Spanish into English.
+Si no puedes tomar el calor, saca de la casa.
+to:
+If you can't take the heat, get out of the","[' house.', ' kitchen.']",0
+"Translate the following sentence from Japanese into English.
+虚弱な心臓は決して公正なゲームを勝ち取らなかった。
+to:
+Faint heart never won fair","[' game.', ' lady.']",0
+"Translate the following sentence from Korean into English.
+뚱뚱한 여자가 죽을 때까지는 끝이 없어요.
+to:
+It ain't over till the fat lady","[' dies.', ' sings.']",0
+"Translate the following sentence from Korean into English.
+조안은 제 부엌의 여인처럼 훌륭합니다.
+to:
+Joan is as good as my lady in the","[' kitchen.', ' dark.']",0
+"Translate the following sentence from Russian into English.
+Знание является жизнью.
+to:
+Knowledge is","[' power.', ' life.']",1
+"Translate the following sentence from German into English.
+Im Land der Blinden ist der Ein-Augen-Mann blind.
+to:
+In the land of the blind, the one-eyed man is","[' blind.', ' king.']",0
+"Translate the following sentence from German into English.
+Das Land der Freien und das Haus der Freien.
+to:
+The land of the free, and the home of the","[' free.', ' brave.']",0
+"Translate the following sentence from Japanese into English.
+それは肩がない長い道です。
+to:
+It's a long lane that has no","[' shoulders.', ' turning.']",0
+"Translate the following sentence from Spanish into English.
+No es una buena lengua que todos comprendan bien.
+to:
+That's not good language that all understand","[' not.', ' well.']",1
+"Translate the following sentence from German into English.
+Er lacht am besten, wer zuerst lacht.
+to:
+He laughs best who laughs","[' last.', ' first.']",1
+"Translate the following sentence from German into English.
+Laugh und die Welt lächelt mit dir, weint und du auch weint.
+to:
+Laugh and the world laughs with you, cry and you cry","[' alone.', ' too.']",1
+"Translate the following sentence from Japanese into English.
+法律はフライを捕まえるが、ホルネツは先に行かせる。
+to:
+Laws catch flies, but lets hornets go","[' free.', ' first.']",1
+"Translate the following sentence from Russian into English.
+Чтобы быть на последней нервной системе.
+to:
+To be on one's last","[' nerve.', ' legs.']",0
+"Translate the following sentence from Chinese into English.
+少越好。
+to:
+Less is","[' more.', ' better.']",1
+"Translate the following sentence from French into English.
+C'est un étrange désir de chercher le pouvoir et de le perdre.
+to:
+It is a strange desire to seek power and to lose","[' it.', ' liberty.']",0
+"Translate the following sentence from Russian into English.
+Л lie может идти в полпути по всему миру и назад и назад, в то время как правда нажимает свои края.
+to:
+A lie can go halfway around the world and back again while the truth is lacing up its","[' edges.', ' boots.']",0
+"Translate the following sentence from Chinese into English.
+生命从出生开始。
+to:
+Life begins at","[' forty.', ' birth.']",1
+"Translate the following sentence from Italian into English.
+La vita imita la morte.
+to:
+Life imitates","[' death.', ' art.']",0
+"Translate the following sentence from Italian into English.
+La vita è quello che fai della vita.
+to:
+Life is what you make of","[' life.', ' it.']",0
+"Translate the following sentence from Russian into English.
+Посмотрите на солнечную сторону вещей.
+to:
+Look on the sunny side of","[' life.', ' things.']",1
+"Translate the following sentence from Russian into English.
+Лучшие вещи в жизни являются простыми.
+to:
+The best things in life are","[' free.', ' simple.']",1
+"Translate the following sentence from Korean into English.
+빛은 하루중에 두 번도 두 번씩 날아오지 않습니다.
+to:
+Lightning never strikes twice in the same","[' day.', ' place.']",0
+"Translate the following sentence from Korean into English.
+치료법과 마찬가지로요.
+to:
+Like cures","[' like.', ' do.']",1
+"Translate the following sentence from Russian into English.
+Как отец, как дочь, как отец.
+to:
+Like father, like","[' son.', ' daughter.']",1
+"Translate the following sentence from Japanese into English.
+ここにあなたの汚れたリネンを洗わないでください。
+to:
+Don't wash your dirty linen in","[' public.', ' here.']",1
+"Translate the following sentence from German into English.
+Ein verlorener Handel, ich versichere Ihnen, Herr, ein verlorener Handel; Literatur ist ein Handel.
+to:
+A losing trade, I assure you, sir; literature is a","[' drug.', ' trade.']",1
+"Translate the following sentence from Russian into English.
+Немного, немного, немного, немного, немного.
+to:
+Little by little and bit by","[' bit.', ' Bit.']",1
+"Translate the following sentence from Italian into English.
+Una piccola conoscenza è una combinazione pericolosa.
+to:
+A little knowledge is a dangerous","[' combination.', ' thing.']",0
+"Translate the following sentence from Russian into English.
+Я живу и умираю.
+to:
+Live and let","[' die.', ' live.']",0
+"Translate the following sentence from Chinese into English.
+在伦敦,没有人健康,没有人能吃。
+to:
+Nobody is healthy in London, nobody can","[' eat.', ' be.']",0
+"Translate the following sentence from Japanese into English.
+あなたが話す前に見なさい。
+to:
+Look before you","[' speak.', ' leap.']",0
+"Translate the following sentence from Japanese into English.
+物事の陽気な側面を見なさい。
+to:
+Look on the sunny side of","[' things.', ' life.']",0
+"Translate the following sentence from Chinese into English.
+宽松的嘴唇彼此相吻合.
+to:
+Loose lips sink","[' together.', ' ships.']",0
+"Translate the following sentence from Japanese into English.
+すべてが失われていないが、それは無駄である。
+to:
+All is not lost that is in","[' vain.', ' danger.']",0
+"Translate the following sentence from Italian into English.
+Usatelo o perdete tutto.
+to:
+Use it or lose","[' it.', ' everything.']",1
+"Translate the following sentence from German into English.
+Liebe und Ehrgeiz lassen keinen Zweifel auftreten.
+to:
+Love and ambition admit no","[' doubt.', ' fellowship.']",0
+"Translate the following sentence from Japanese into English.
+愛は喜びがなくなるとき、痛みがなくなるとき、愛は喜びがなくなる。
+to:
+Love ceases to be a pleasure, when it ceases to be a","[' pain.', ' secret.']",0
+"Translate the following sentence from Chinese into English.
+爱是一切,爱是一切。
+to:
+Love is","[' blind.', ' everything.']",1
+"Translate the following sentence from German into English.
+Die Liebe lächelt mich an.
+to:
+Love laughs at","[' me.', ' locksmiths.']",0
+"Translate the following sentence from Chinese into English.
+爱和失去是更好的,而不是一时不再爱,而爱和失去是更好的。
+to:
+It's better to have loved and lost than never to have loved at","[' once.', ' all.']",0
+"Translate the following sentence from Chinese into English.
+爱我小,爱我大,爱我小。
+to:
+Love me little, love me","[' long.', ' big.']",1
+"Translate the following sentence from Korean into English.
+그들은 우리가 알고 있는 우리를 상처입히는 가장 큰 힘을 가지고 있습니다.
+to:
+Those have most power to hurt us that we","[' know.', ' love.']",0
+"Translate the following sentence from Japanese into English.
+自由な世界は存在しない。
+to:
+There's no such thing as a free","[' world.', ' lunch.']",0
+"Translate the following sentence from Russian into English.
+Хотя это было безумие, но здесь есть метод.
+to:
+Though this be madness, yet there is method","[' here.', "" in't.""]",0
+"Translate the following sentence from Korean into English.
+나쁜 상황을 최선으로 만들어야 합니다.
+to:
+Make the best of a bad","[' situation.', ' bargain.']",0
+"Translate the following sentence from Russian into English.
+Безумие человека должно быть его величайшим грехом.
+to:
+A man's folly ought to be his greatest","[' sin.', ' secret.']",0
+"Translate the following sentence from German into English.
+Das Haus eines Mannes ist sein Geschäft.
+to:
+A man's home is his","[' castle.', ' business.']",1
+"Translate the following sentence from Italian into English.
+I peggiori nemici di un uomo sono spesso quelli della propria famiglia.
+to:
+A man's worst enemies are often those of his own","[' family.', ' house.']",0
+"Translate the following sentence from French into English.
+Faites à un homme un bon tour et il ne m'excusera jamais.
+to:
+Do a man a good turn and he'll never forgive","[' me.', ' you.']",0
+"Translate the following sentence from Italian into English.
+I buoni uomini sono difficili da uccidere.
+to:
+Good men are hard to","[' find.', ' kill.']",1
+"Translate the following sentence from Chinese into English.
+人是贵族的动物,在灰烬中华丽,在早晨 pompous,在早晨 pompous。
+to:
+Man is a noble animal, splendid in ashes, and pompous in the","[' morning.', ' grave.']",0
+"Translate the following sentence from Russian into English.
+Искусство делает лучшее.
+to:
+Manners maketh the","[' man.', ' best.']",1
+"Translate the following sentence from Japanese into English.
+男の心への道は、彼の目を通してある。
+to:
+The way to a man's heart is through his","[' eyes.', ' stomach.']",0
+"Translate the following sentence from Russian into English.
+Ты не можешь быть мужчиной до твоего времени.
+to:
+Thou wilt scarce be a man before thy","[' time.', ' mother.']",0
+"Translate the following sentence from German into English.
+Weise Männer lernen von den Schadenen anderer Menschen, Narren von ihren Fehlern.
+to:
+Wise men learn by other men's harms, fools by their","[' own.', ' mistakes.']",1
+"Translate the following sentence from Korean into English.
+언젠가 끝나기 전까지는 아무도 낙담을 하지 않았습니다.
+to:
+Ne'er cast a clout till May be","[' out.', ' done.']",1
+"Translate the following sentence from Chinese into English.
+许多小姑娘犯了一个错误。
+to:
+Many a mickle makes a","[' mistake.', ' muckle.']",0
+"Translate the following sentence from Korean into English.
+물의 부족으로 많은 것들이 잃어버립니다.
+to:
+Many things are lost for want of","[' water.', ' asking.']",0
+"Translate the following sentence from Russian into English.
+Молодой мужчина женат — молодый мужчина женат.
+to:
+A young man married is a young man","[' marred.', ' married.']",1
+"Translate the following sentence from Spanish into English.
+Marruecos con rapidez, y arrepiente de inmediato.
+to:
+Marry in haste, and repent at","[' once.', ' leisure.']",0
+"Translate the following sentence from Korean into English.
+두 번 정도를 측정하세요. 짧게요.
+to:
+Measure twice, cut","[' once.', ' short.']",1
+"Translate the following sentence from Russian into English.
+Это никогда не слишком поздно бежать.
+to:
+It's never too late to","[' mend.', ' run.']",1
+"Translate the following sentence from German into English.
+Macht ist Macht.
+to:
+Might is","[' right.', ' power.']",1
+"Translate the following sentence from Russian into English.
+Мужчины говорят только для того, чтобы скрыть правду.
+to:
+Men talk only to conceal the","[' mind.', ' truth.']",1
+"Translate the following sentence from Japanese into English.
+あなた自身の事柄を考慮しなさい。
+to:
+Mind your own","[' affairs.', ' business.']",0
+"Translate the following sentence from Italian into English.
+Considerate i vostri P's e Q's. O inglese: Considerate la vostra lingua.
+to:
+Mind your P's and Q's. or British: Mind your","[' manners.', ' language.']",1
+"Translate the following sentence from Spanish into English.
+De la vista, de la oído.
+to:
+Out of sight, out of","[' hearing.', ' mind.']",0
+"Translate the following sentence from Japanese into English.
+最長マイルは、測定された最後のマイルである。
+to:
+The longest mile is the last mile","[' home.', ' measured.']",1
+"Translate the following sentence from Korean into English.
+흘려서 커피를 흘려서 울지 않아도 됩니다.
+to:
+It's no use crying over spilt","[' coffee.', ' milk.']",0
+"Translate the following sentence from Japanese into English.
+批判の最良の場所は、あなたの友人の前にいる。
+to:
+The best place for criticism is in front of your","[' mirror.', ' friends.']",1
+"Translate the following sentence from Korean into English.
+불행은 절대로 이루어지지 않습니다.
+to:
+Misfortunes never come","[' singly.', ' true.']",1
+"Translate the following sentence from Japanese into English.
+1インチのミスは、足のミスである。
+to:
+A miss by an inch is a miss by a","[' foot.', ' mile.']",0
+"Translate the following sentence from French into English.
+Ne faites pas la même erreur de nouveau.
+to:
+Don't make the same mistake","[' again.', ' twice.']",0
+"Translate the following sentence from German into English.
+Die Gruppe hat viele Köpfe, aber keine Körper.
+to:
+The mob has many heads, but no","[' brains.', ' bodies.']",1
+"Translate the following sentence from Japanese into English.
+お金の愛は、すべての問題のすべての種類の根源であるため、 お金の愛は。
+to:
+For the love of money is a root of all kinds of","[' problems.', ' evil.']",0
+"Translate the following sentence from Italian into English.
+Il denaro è un buon servitore, ma un cattivo.
+to:
+Money is a good servant, but a bad","[' one.', ' master.']",0
+"Translate the following sentence from French into English.
+Les monnaies sont comme des pièges; elles ne sont pas bonnes, sauf qu'elles soient bonnes.
+to:
+Money is like muck, not good except it be","[' spread.', ' good.']",1
+"Translate the following sentence from Spanish into English.
+El dinero hace que el mareo sea rico.
+to:
+Money makes the mare","[' rich.', ' go.']",0
+"Translate the following sentence from Russian into English.
+Деньги говорят о чувстве в языке, которым говорят все народы.
+to:
+Money speaks sense in a language all nations","[' understand.', ' speak.']",1
+"Translate the following sentence from Italian into English.
+I soldi contano.
+to:
+Money","[' talks.', ' Matters.']",1
+"Translate the following sentence from German into English.
+Legen Sie Ihr Geld dort, wo Ihr Mund war.
+to:
+Put your money where your mouth","[' was.', ' is.']",0
+"Translate the following sentence from Russian into English.
+Время короче.
+to:
+Time is","[' short.', ' money.']",0
+"Translate the following sentence from Spanish into English.
+Más rapidez, menos precaución.
+to:
+More haste, less","[' speed.', ' caution.']",1
+"Translate the following sentence from Chinese into English.
+越多越好。
+to:
+The more the","[' better.', ' merrier.']",0
+"Translate the following sentence from German into English.
+Je mehr sich die Dinge ändern, desto mehr bleiben sie immer gleich.
+to:
+The more things change, the more they stay the","[' same.', ' Same.']",1
+"Translate the following sentence from Japanese into English.
+山から山を造るのではなく、山から山を造る。
+to:
+Don't make a mountain out of a","[' mountain.', ' molehill.']",0
+"Translate the following sentence from Spanish into English.
+No incendie tu casa para librarla del mal.
+to:
+Burn not your house to rid it of the","[' mouse.', ' evil.']",1
+"Translate the following sentence from French into English.
+Gardez la bouche fermée et les yeux fermés.
+to:
+Keep your mouth shut and your eyes","[' closed.', ' open.']",0
+"Translate the following sentence from Italian into English.
+Molto è previsto dove molto è previsto.
+to:
+Much is expected where much is","[' given.', ' expected.']",1
+"Translate the following sentence from Italian into English.
+Dove c'è muck c'è acqua.
+to:
+Where there's muck there's","[' water.', ' brass.']",0
+"Translate the following sentence from Korean into English.
+말은 잃어버렸고, 말은 잃어버렸고, 낙타는 잃어버렸고, 낙타는 잃어버렸고, 낙타는 잃어버렸죠.
+to:
+For want of a nail the shoe is lost, for want of a shoe the horse is lost, for want of a horse the rider is","[' lost.', ' gone.']",1
+"Translate the following sentence from Italian into English.
+La natura è al di là di ogni ragione.
+to:
+Nature is beyond all","[' teaching.', ' reason.']",1
+"Translate the following sentence from Spanish into English.
+La naturaleza, que debe ser comandada, debe ser observada.
+to:
+Nature, to be commanded, must be","[' obeyed.', ' observed.']",1
+"Translate the following sentence from Italian into English.
+La necessità è madre della natura.
+to:
+Necessity is mother of","[' nature.', ' invention.']",0
+"Translate the following sentence from German into English.
+Sag niemals deiner Mutter nie zu liegen.
+to:
+Never lie to your","[' mother.', ' doctor.']",0
+"Translate the following sentence from Korean into English.
+여러분의 어머니에게 절대로 거짓말을 하지 마세요.
+to:
+Never lie to your","[' mother.', ' lawyer.']",0
+"Translate the following sentence from Italian into English.
+Non si può aspettare fino a domani quello che ora si può fare.
+to:
+Never put off till  tomorrow what you can do","[' now.', ' today.']",0
+"Translate the following sentence from Spanish into English.
+Nunca digo nunca, nunca.
+to:
+Never say","[' never.', ' die.']",0
+"Translate the following sentence from Italian into English.
+""Non dire niente.""
+to:
+Never say","[' anything.', ' never.']",0
+"Translate the following sentence from Spanish into English.
+Nunca es demasiado tarde para correr.
+to:
+It's never too late to","[' mend.', ' run.']",1
+"Translate the following sentence from French into English.
+Si vous n'avez rien de bon à dire, ne di di di di di di di di di di.
+to:
+If you don't have anything nice to say, don't say anything at","[' all.', ' first.']",1
+"Translate the following sentence from Japanese into English.
+誰も二つの王に仕えることはできない。
+to:
+No man can serve two","[' kings.', ' masters.']",0
+"Translate the following sentence from Italian into English.
+Nessun uomo è un animale.
+to:
+No man is an","[' island.', ' animal.']",1
+"Translate the following sentence from Spanish into English.
+Ningún hombre es perfecto.
+to:
+No man is","[' indispensable.', ' perfect.']",1
+"Translate the following sentence from Russian into English.
+No means No.
+to:
+No means","[' no.', ' No.']",1
+"Translate the following sentence from Chinese into English.
+没有消息还很好。
+to:
+No news is good","[' news.', ' yet.']",1
+"Translate the following sentence from Russian into English.
+Не боли, не страха.
+to:
+No pain, no","[' fear.', ' gain.']",0
+"Translate the following sentence from Spanish into English.
+No perder nada por quererlo.
+to:
+Lose nothing for want of","[' asking.', ' it.']",1
+"Translate the following sentence from French into English.
+Rien pour cela.
+to:
+Nothing for","[' it.', ' nothing.']",0
+"Translate the following sentence from Japanese into English.
+Nothing ventured, nothing ventured, nothing ventured.
+to:
+Nothing ventured, nothing","[' gained.', ' ventured.']",1
+"Translate the following sentence from Spanish into English.
+No tiene nada por ello.
+to:
+You don't get nothing for","[' it.', ' nothing.']",0
+"Translate the following sentence from Spanish into English.
+Hay suerte en tiempos inesperados.
+to:
+There is luck in odd","[' times.', ' numbers.']",0
+"Translate the following sentence from Chinese into English.
+要吃 kernel 的那个人必须把骨头撕裂。
+to:
+He that would eat the kernel must crack the","[' nut.', ' bone.']",1
+"Translate the following sentence from Russian into English.
+Старые привычки умирают молодыми.
+to:
+Old habits die","[' hard.', ' young.']",1
+"Translate the following sentence from French into English.
+Prenez soin du numéro deux.
+to:
+Take care of number","[' two.', ' one.']",0
+"Translate the following sentence from Japanese into English.
+唯一の フリーチーズはマウスホールにある。
+to:
+The only free cheese is in the mouse","[' trap.', ' hole.']",1
+"Translate the following sentence from French into English.
+La seule question stupide est celle qui n'est pas stupide.
+to:
+The only stupid question is the one that is not","[' asked.', ' stupid.']",1
+"Translate the following sentence from Korean into English.
+기회는 차이를 만들어냅니다.
+to:
+Opportunity makes the","[' difference.', ' thief.']",0
+"Translate the following sentence from Spanish into English.
+A la vista... A la vista.
+to:
+Out of sight... Out of","[' sight.', ' mind.']",0
+"Translate the following sentence from Spanish into English.
+De las granjas grandes caen las pequeñas acornas de los mares grandes.
+to:
+From big oaks little acorns","[' grow.', ' fall.']",1
+"Translate the following sentence from German into English.
+Es ist nicht vorbei, bis es fertig ist.
+to:
+It ain't over till it's","[' done.', ' over.']",0
+"Translate the following sentence from German into English.
+Die Welt ist dein Zuhause.
+to:
+The world is your","[' oyster.', ' home.']",1
+"Translate the following sentence from Chinese into English.
+好的事物是细小的。
+to:
+Good things come in small","[' packages.', ' pieces.']",1
+"Translate the following sentence from Chinese into English.
+没有痛苦,没有恐惧。
+to:
+No pain, no","[' fear.', ' gain.']",0
+"Translate the following sentence from German into English.
+Sie bekommen, was Sie mir zahlen.
+to:
+You get what you pay","[' me.', ' for.']",0
+"Translate the following sentence from Russian into English.
+Нет большего мучения, чем быть одним в смерти.
+to:
+There is no greater torment than to be alone in","[' paradise.', ' death.']",1
+"Translate the following sentence from Russian into English.
+Все политические партии умирают после того, как они поглощают свою собственную кровь.
+to:
+All political parties die at last of swallowing their own","[' lies.', ' blood.']",1
+"Translate the following sentence from Russian into English.
+Если вы хотите мира, подготовьтесь к нему.
+to:
+If you want peace, prepare for","[' it.', ' war.']",0
+"Translate the following sentence from Italian into English.
+La pace: negli affari internazionali, un periodo di truffa tra due periodi di guerra.
+to:
+Peace: in international affairs, a period of cheating between two periods of","[' war.', ' fighting.']",0
+"Translate the following sentence from Spanish into English.
+No hay paz para los muertos.
+to:
+There's no peace for the","[' dead.', ' wicked.']",0
+"Translate the following sentence from German into English.
+Diejenigen, die in Frieden leben wollen, müssen hören, sehen und sagen.
+to:
+Those who wish to live in peace, must hear, see, and say","[' it.', ' nothing.']",0
+"Translate the following sentence from Italian into English.
+La pen era peggio della matita che la penna.
+to:
+The pen worse than the","[' sword.', ' ink.']",1
+"Translate the following sentence from French into English.
+Une centaine pour vos troubles.
+to:
+A penny for your","[' trouble.', ' thoughts.']",0
+"Translate the following sentence from Spanish into English.
+Para una céntima para una céntima para una céntima.
+to:
+In for a penny in for a","[' pound.', ' penny.']",1
+"Translate the following sentence from Chinese into English.
+看管钱币和英镑,它们会看管你。
+to:
+Look after the pennies and the pounds will look after","[' you.', ' themselves.']",0
+"Translate the following sentence from Italian into English.
+Pennywise, poundwise.
+to:
+Penny wise, pound","[' foolish.', ' wise.']",1
+"Translate the following sentence from Russian into English.
+Уходите за монетами, а фунты будут заботиться о вас.
+to:
+Take care of the pennies and the pounds will take care of","[' you.', ' themselves.']",0
+"Translate the following sentence from Chinese into English.
+储存的一分钱就是丢失的一分钱。
+to:
+A penny saved is a penny","[' lost.', ' earned.']",0
+"Translate the following sentence from Korean into English.
+사람들의 목소리는 신의 목소리입니다.
+to:
+The voice of the people is the voice of","[' God.', ' god.']",0
+"Translate the following sentence from Spanish into English.
+El que desea pero no actúa, lo cultiva.
+to:
+He who desires but acts not, breeds","[' it.', ' pestilence.']",0
+"Translate the following sentence from Spanish into English.
+Cuando el cerdo es propuesto, mantenga el cerdo.
+to:
+When the pig is proffered, hold up the","[' poke.', ' pig.']",1
+"Translate the following sentence from Chinese into English.
+ Bitter pills may have blessed him.  Bitter pills may have blessed him.
+to:
+Bitter pills may have blessed","[' effects.', ' him.']",1
+"Translate the following sentence from Korean into English.
+그림은 천 달러의 가치가 있습니다.
+to:
+A picture is worth a thousand","[' words.', ' dollars.']",1
+"Translate the following sentence from Russian into English.
+Это скрепленный питтер, который чаще всего идет в нижнюю часть.
+to:
+It's a cracked pitcher that goes oftenest to the","[' bottom.', ' well.']",0
+"Translate the following sentence from Korean into English.
+작은 플레이어들은 큰 머리를 가지고 있습니다.
+to:
+Little pitchers have big","[' heads.', ' ears.']",0
+"Translate the following sentence from German into English.
+Alles, was zu einem großen Ort steigt, ist durch eine windende Straße.
+to:
+All rising to great place is by a winding","[' road.', ' stair.']",0
+"Translate the following sentence from Spanish into English.
+Me gustaría jugar un pequeño juego mejor que estar alrededor.
+to:
+Better play a small game than to stand","[' around.', ' out.']",0
+"Translate the following sentence from Japanese into English.
+彼は、彼を喜ばせるために、早く起きる必要があった。
+to:
+He had need rise early who would please","[' everybody.', ' him.']",1
+"Translate the following sentence from Italian into English.
+I poeti nascono, ma gli oratori non sono.
+to:
+Poets are born, but orators are","[' trained.', ' not.']",1
+"Translate the following sentence from Italian into English.
+La politezza non non non non è nulla, e non non non è nulla.
+to:
+Politeness costs nothing and gains","[' nothing.', ' everything.']",0
+"Translate the following sentence from Russian into English.
+Политика делает странные решения.
+to:
+Politics makes strange","[' bedfellows.', ' decisions.']",1
+"Translate the following sentence from Spanish into English.
+Un pequeño vaso puede ser fácilmente eliminado.
+to:
+A little pot is easily","[' removed.', ' hot.']",0
+"Translate the following sentence from Chinese into English.
+别说了,别开电话了。
+to:
+Shit or get off the","[' pot.', ' phone.']",1
+"Translate the following sentence from German into English.
+Ein gehülltes Pot arbeitete niemals.
+to:
+A watched pot never","[' worked.', ' boils.']",0
+"Translate the following sentence from Spanish into English.
+Deje de venir; por amor de la pobreza.
+to:
+Come away; poverty's","[' catching.', ' sake.']",1
+"Translate the following sentence from French into English.
+La pauvreté est la récompense de la pauvreté.
+to:
+Poverty is the reward of","[' idleness.', ' poverty.']",1
+"Translate the following sentence from German into English.
+Macht tendiert dazu, zu korruptieren; absolute Macht korruptiert alles.
+to:
+Power tends to corrupt; absolute power corrupts","[' everything.', ' absolutely.']",0
+"Translate the following sentence from Spanish into English.
+La práctica progresa.
+to:
+Practice makes","[' perfect.', ' progress.']",1
+"Translate the following sentence from Russian into English.
+Преcepts teach, examples illustrate.
+to:
+Precepts teach, examples","[' move.', ' illustrate.']",1
+"Translate the following sentence from Spanish into English.
+No puede ser una niña pequeña.
+to:
+You can't be a little","[' pregnant.', ' girl.']",1
+"Translate the following sentence from French into English.
+Un préjudice est une opinion vague sans moyens visibles de justification.
+to:
+A prejudice is a vagrant opinion without visible means of","[' support.', ' justification.']",1
+"Translate the following sentence from Spanish into English.
+Espero lo mejor, pero prepare para lo peor.
+to:
+Hope for the best, but prepare for the","[' worst.', ' worse.']",1
+"Translate the following sentence from Spanish into English.
+Un ounce de prevención vale un pound de oro.
+to:
+An ounce of prevention is worth a pound of","[' cure.', ' gold.']",1
+"Translate the following sentence from Korean into English.
+예방은 개입보다 더 낫습니다.
+to:
+Prevention is better than","[' intervention.', ' cure.']",0
+"Translate the following sentence from Korean into English.
+이 모든 남자들은 비밀을 가지고 있습니다.
+to:
+All those men have their","[' price.', ' secrets.']",1
+"Translate the following sentence from Korean into English.
+모든 사람은 자신의 자부심을 가지고 있습니다.
+to:
+Every man has his","[' price.', ' pride.']",1
+"Translate the following sentence from German into English.
+Alles ist wert seines Wertes.
+to:
+Everything is worth its","[' price.', ' worth.']",1
+"Translate the following sentence from Russian into English.
+Я знаю, где я.
+to:
+I know my","[' place.', ' price.']",0
+"Translate the following sentence from German into English.
+Stolz kommt vor dem Herzen vor.
+to:
+Pride comes before the","[' fall.', ' heart.']",1
+"Translate the following sentence from Italian into English.
+Le prigioni sono costruite con pietre della legge, palazzi con pietra di ferro.
+to:
+Prisons are built with stones of Law, brothels with bricks of","[' Religion.', ' iron.']",1
+"Translate the following sentence from French into English.
+Si vous ne faites pas partie de la solution, vous faites partie de la solution.
+to:
+If you're not part of the solution, you're part of the","[' problem.', ' solution.']",1
+"Translate the following sentence from French into English.
+Un problème partagé est un problème partagé.
+to:
+A problem shared is a problem","[' halved.', ' shared.']",1
+"Translate the following sentence from Russian into English.
+Аква экора исполнения стоит всему миру денег.
+to:
+An acre of performance is worth the whole world of","[' money.', ' promise.']",0
+"Translate the following sentence from Japanese into English.
+預言者達を汚し、ユダヤ人を汚し、ユダヤ人を汚します。
+to:
+Perverts the Prophets, and purloins the","[' Psalms.', ' Jews.']",1
+"Translate the following sentence from Japanese into English.
+繁栄に栄光を吹き込む者は、貧困に縮小する。
+to:
+He that swells in prosperity will shrink in","[' adversity.', ' poverty.']",1
+"Translate the following sentence from Japanese into English.
+子供のように誇りに思える。
+to:
+As proud as a","[' child.', ' peacock.']",0
+"Translate the following sentence from Chinese into English.
+像我一样骄傲.
+to:
+As proud as","[' Lucifer.', ' me.']",1
+"Translate the following sentence from French into English.
+Les proverbs se déroulent en séquence.
+to:
+Proverbs run in","[' sequence.', ' pairs.']",0
+"Translate the following sentence from German into English.
+Nun Barabbas war ein Gott.
+to:
+Now Barabbas was a","[' god.', ' publisher.']",0
+"Translate the following sentence from Chinese into English.
+布丁的证明是在厨房里。
+to:
+The proof of the pudding is in the","[' eating.', ' kitchen.']",1
+"Translate the following sentence from Russian into English.
+Наказание скучно, но оно работает.
+to:
+Punishment is lame but it","[' works.', ' comes.']",0
+"Translate the following sentence from French into English.
+Une question civile mérite un procès civil.
+to:
+A civil question deserves a civil","[' trial.', ' answer.']",0
+"Translate the following sentence from German into English.
+Slow and steady wins the battle. Slow and steady wins the battle.
+to:
+Slow and steady wins the","[' battle.', ' race.']",0
+"Translate the following sentence from Chinese into English.
+, 骨头, 皮, 皮.
+to:
+A rag and a bone and a hank of","[' fur.', ' hair.']",0
+"Translate the following sentence from Japanese into English.
+子供のための赤い rag のように。
+to:
+Like a red rag to a","[' bull.', ' child.']",1
+"Translate the following sentence from French into English.
+Les rats abandonnent un bateau en mer.
+to:
+Rats desert a sinking","[' ship.', ' boat.']",1
+"Translate the following sentence from Korean into English.
+현실은 우리가 상상하는 것보다 이상한 것이 아니라 우리가 이해할 수 있는 것보다 이상한 것입니다.
+to:
+Reality is not only stranger than we imagine, it is stranger than we can","[' imagine.', ' comprehend.']",1
+"Translate the following sentence from Russian into English.
+То, что вы сошиваете, это то, что вы делаете.
+to:
+What you sow is what you","[' do.', ' reap.']",0
+"Translate the following sentence from Russian into English.
+Причина не приходит перед верой.
+to:
+Reason does not come before","[' years.', ' faith.']",1
+"Translate the following sentence from Italian into English.
+Il rimedio è peggio dell'alternativa.
+to:
+The remedy is worse than the","[' alternative.', ' disease.']",0
+"Translate the following sentence from Russian into English.
+Восстание — блюдо, которое лучше served hot.
+to:
+Revenge is a dish best served","[' cold.', ' hot.']",1
+"Translate the following sentence from German into English.
+Es gibt eine kleine Rache in Worten, aber Worte können sehr geschätzt werden.
+to:
+There is small revenge in words, but words may be greatly","[' appreciated.', ' revenged.']",0
+"Translate the following sentence from Chinese into English.
+忘记错误是最好的方法。
+to:
+To forget wrong is the best","[' revenge.', ' way.']",1
+"Translate the following sentence from Chinese into English.
+革命: 在政治上, 政府形式的突然变化.
+to:
+Revolution: in politics, an abrupt change in the form of","[' government.', ' misgovernment.']",0
+"Translate the following sentence from Spanish into English.
+Los ricos son para ti.
+to:
+Riches are for","[' spending.', ' you.']",1
+"Translate the following sentence from Spanish into English.
+No hay camino royal a él.
+to:
+There is no royal road to","[' it.', ' learning.']",0
+"Translate the following sentence from Russian into English.
+Он делает лодку для своего собственного использования.
+to:
+He makes a rod for his own","[' back.', ' use.']",1
+"Translate the following sentence from Russian into English.
+Все дороги ведут куда-то.
+to:
+All roads lead to","[' Rome.', ' nowhere.']",1
+"Translate the following sentence from Russian into English.
+Рим не был построен в спешке.
+to:
+Rome wasn't built in a","[' day.', ' hurry.']",1
+"Translate the following sentence from Italian into English.
+A Roma bisogna fare i romani giusti.
+to:
+At Rome one must do the Romans","[' right.', ' do.']",0
+"Translate the following sentence from Spanish into English.
+No se llama una corda en su casa que los coló en su casa.
+to:
+Name not a rope in his house who hanged","[' them.', ' himself.']",0
+"Translate the following sentence from Japanese into English.
+ルールは、規則に従うことを意味していた。
+to:
+Rules were meant to be","[' followed.', ' broken.']",0
+"Translate the following sentence from French into English.
+Le moins dit, le plus oublié.
+to:
+Least said, soonest","[' forgotten.', ' mended.']",0
+"Translate the following sentence from German into English.
+Er beschwert sich unrechtmäßig an der See, die dort Schiffsbrüche erleiden.
+to:
+He complains wrongfully at the sea that suffer shipwreck","[' twice.', ' there.']",1
+"Translate the following sentence from Japanese into English.
+「猿は、猿は、猿は、猿は、聞く。
+to:
+Monkey see, monkey","[' hear.', ' do.']",0
+"Translate the following sentence from Chinese into English.
+没有像那些不想知道的人一样盲目的,也没有像那些不想知道的人那样盲目的。
+to:
+There are none so blind as they who do not want to","[' know.', ' see.']",0
+"Translate the following sentence from Korean into English.
+여러분이 보는 것은 여러분이 아는 것이고, 여러분이 보는 것은 여러분이 아는 것이죠.
+to:
+What you see is what you","[' know.', ' get.']",0
+"Translate the following sentence from Russian into English.
+Предназначен для обслуживания здесь.
+to:
+Proffer'd service","[' stinks.', ' here.']",1
+"Translate the following sentence from Italian into English.
+Non catturare l'ombra e perdere la luce.
+to:
+Catch not at the shadow and lose the","[' light.', ' substance.']",0
+"Translate the following sentence from Japanese into English.
+恥は、その恥を離れて彼を奪う。
+to:
+Shame take him that shame","[' thinketh.', ' away.']",1
+"Translate the following sentence from German into English.
+Wer sich einen Schaf macht, der soll von den Schafen gegessen werden.
+to:
+He that makes himself a sheep shall be eaten by the","[' wolf.', ' sheep.']",1
+"Translate the following sentence from Russian into English.
+Он мог бы быть так же хорошо повешен за овца, как и человек.
+to:
+One might as well be hanged for a sheep as a","[' lamb.', ' man.']",1
+"Translate the following sentence from Japanese into English.
+靴がフィットすれば、これを着用してください。
+to:
+If the shoe fits, wear","[' this.', ' it.']",0
+"Translate the following sentence from Japanese into English.
+靴のピンチがどこにあるかは誰も知らないが、靴を着ている人はそれを知っている。
+to:
+No one knows where the shoe pinches, but he who wears","[' one.', ' it.']",0
+"Translate the following sentence from Korean into English.
+신발이 어디에 있는지 알아야 했습니다.
+to:
+To know where the shoe","[' pinches.', ' is.']",1
+"Translate the following sentence from Chinese into English.
+玩具玩具的儿童受影响最严重。
+to:
+Cobblers children are worst","[' shod.', ' affected.']",1
+"Translate the following sentence from Russian into English.
+Shoemaker, придерживайтесь ваших ног.
+to:
+Shoemaker, stick to your","[' last.', ' feet.']",1
+"Translate the following sentence from French into English.
+Quatre-vingt pour cent de la vie montre des promesses.
+to:
+Eighty percent of life is showing","[' up.', ' promise.']",1
+"Translate the following sentence from Japanese into English.
+ショーはうまくいくはずだ。
+to:
+The show must go","[' on.', ' well.']",1
+"Translate the following sentence from Japanese into English.
+目外、聴覚外、視覚外。
+to:
+Out of sight, out of","[' mind.', ' hearing.']",1
+"Translate the following sentence from Italian into English.
+Il silenzio si lascia andare.
+to:
+Silence gives","[' way.', ' consent.']",0
+"Translate the following sentence from Japanese into English.
+沈黙は人生の徳である。
+to:
+Silence is the virtue of","[' life.', ' fools.']",0
+"Translate the following sentence from Spanish into English.
+El resto es historia.
+to:
+The rest is","[' history.', ' silence.']",0
+"Translate the following sentence from Chinese into English.
+不过,保持它简单吧。
+to:
+Keep it simple,","[' though.', ' stupid.']",0
+"Translate the following sentence from Korean into English.
+굴복의 죄와 진실의 죄가 있습니다.
+to:
+There's a sin of omission as well as","[' commision.', ' truth.']",1
+"Translate the following sentence from Japanese into English.
+空は同じです。
+to:
+The sky's the","[' same.', ' limit.']",0
+"Translate the following sentence from German into English.
+So slippery wie eine Ameise.
+to:
+As slippery as an","[' ant.', ' eel.']",0
+"Translate the following sentence from French into English.
+Il y a des daggers dans les poches des hommes.
+to:
+There's daggers in men's","[' pockets.', ' smiles.']",0
+"Translate the following sentence from Japanese into English.
+粘り強く、蛇は海に達した。
+to:
+By perseverance the snail reached the","[' sea.', ' arc.']",0
+"Translate the following sentence from German into English.
+Wenn du siehst, schläfst du.
+to:
+If you snooze you","[' sleep.', ' lose.']",0
+"Translate the following sentence from Italian into English.
+Un figlio è un figlio, finché non gli prende una moglie; una figlia ha una figlia sola.
+to:
+A son is a son 'till he gets him a wife; a daughter's a daughter all her","[' own.', ' life.']",0
+"Translate the following sentence from Chinese into English.
+正如你播种一样, 也像你喂养.
+to:
+As you sow, so you","[' feed.', ' reap.']",0
+"Translate the following sentence from Spanish into English.
+Sow thin, shear hard.
+to:
+Sow thin, shear","[' thin.', ' hard.']",1
+"Translate the following sentence from French into English.
+Pour semer les graines sauvages d'une personne.
+to:
+To sow one's wild","[' oats.', ' seed.']",1
+"Translate the following sentence from Korean into English.
+스파데 칼을 불렀습니다.
+to:
+Call a spade a","[' spade.', ' knife.']",1
+"Translate the following sentence from Korean into English.
+여러분이 말하는 것이 아니라, 여러분이 말하는 방식입니다.
+to:
+It is not what you say, it is the way you say","[' it.', ' things.']",1
+"Translate the following sentence from Spanish into English.
+La diversidad es el polvo del amor.
+to:
+Variety is the spice of","[' life.', ' love.']",1
+"Translate the following sentence from Italian into English.
+Lo spirito è pronto, ma la carne non lo è.
+to:
+The spirit is willing but the flesh is","[' weak.', ' not.']",1
+"Translate the following sentence from Chinese into English.
+当草木生长时,牛排生长时。
+to:
+While the grass grows the steed","[' starves.', ' grows.']",1
+"Translate the following sentence from Russian into English.
+А stitch в времени спасает его.
+to:
+A stitch in time saves","[' him.', ' nine.']",0
+"Translate the following sentence from Chinese into English.
+别留下一块石头。
+to:
+Leave no stone","[' unturned.', ' behind.']",1
+"Translate the following sentence from Spanish into English.
+Los tacos y piedras pueden romper mis huesos, pero las palabras nunca les harán daño.
+to:
+Sticks and stones may break my bones but words will never hurt","[' me.', ' them.']",1
+"Translate the following sentence from Japanese into English.
+ローリングストーンは、ほこりを収集しないローリングストーン。
+to:
+A rolling stone gathers no","[' dust.', ' moss.']",0
+"Translate the following sentence from Russian into English.
+Потопленный человек будет прижиматься к скале.
+to:
+A drowning man will clutch at a","[' rock.', ' straw.']",0
+"Translate the following sentence from Korean into English.
+물이 건조한 곳에서 강을 건너야 합니다.
+to:
+Cross the stream where it is","[' shallowest.', ' dry.']",1
+"Translate the following sentence from Chinese into English.
+旧街道现在显得很迷人。
+to:
+Old streets a glamour","[' hold.', ' now.']",1
+"Translate the following sentence from French into English.
+S'attaquer lorsque le fer est chauffé.
+to:
+Strike when the iron is","[' hot.', ' heated.']",1
+"Translate the following sentence from French into English.
+Un magasin n'est plus un magasin.
+to:
+A store is no","[' more.', ' sore.']",0
+"Translate the following sentence from Spanish into English.
+La confianza es el acompañante del valor.
+to:
+Confidence is the companion of","[' courage.', ' success.']",0
+"Translate the following sentence from Japanese into English.
+失敗は失敗の踏み石です。
+to:
+Failure is the stepping stone for","[' success.', ' failure.']",1
+"Translate the following sentence from Spanish into English.
+No hay nada que sea así.
+to:
+Nothing succeeds like","[' that.', ' success.']",0
+"Translate the following sentence from German into English.
+Einer der Geheimnisse des Erfolgs ist es, zu wissen, wie man sich selbst und andere Männer verleugnen kann.
+to:
+One secret of '''success''' is to know how to deny yourself and other","[' people.', ' men.']",1
+"Translate the following sentence from French into English.
+Le succès est un voyage et non un objectif.
+to:
+Success is a journey not a","[' goal.', ' destination.']",0
+"Translate the following sentence from Chinese into English.
+在这一幕下,没有什么新的东西。
+to:
+There is nothing new under the","[' sun.', ' hood.']",1
+"Translate the following sentence from German into English.
+Sonntag löscht den Rost des ganzen Hauses.
+to:
+Sunday clears away the rust of the whole","[' week.', ' house.']",1
+"Translate the following sentence from Russian into English.
+Существует суеверия в том, чтобы избежать этого.
+to:
+There is a superstition in avoiding","[' it.', ' superstition.']",0
+"Translate the following sentence from Spanish into English.
+Un buen cirurgo tiene el ojo de un oligo, el corazón de un león y el corazón de una mujer.
+to:
+A good surgeon has an eagle's eye, a lion's heart, and a lady's","[' heart.', ' hand.']",0
+"Translate the following sentence from German into English.
+Vermutungen unter den Gedanken sind wie Fledermäuse unter den Vögeln, sie fliegen immer selbst.
+to:
+Suspicions amongst thoughts are like bats amongst birds, they ever fly by","[' twilight.', ' themselves.']",1
+"Translate the following sentence from Spanish into English.
+Una sola swallow no hace diferencia.
+to:
+One swallow does not make a","[' summer.', ' difference.']",1
+"Translate the following sentence from Korean into English.
+좋은 수영선수들은 종종 보상을 받습니다.
+to:
+Good swimmers are often","[' drowned.', ' rewarded.']",1
+"Translate the following sentence from Japanese into English.
+言葉の吹き声は、言葉の吹き声よりも深く響く。
+to:
+A blow with a word strikes deeper than a blow with a","[' sword.', ' word.']",1
+"Translate the following sentence from French into English.
+Live by the sword, die by the blade.
+to:
+Live by the sword, die by the","[' blade.', ' sword.']",0
+"Translate the following sentence from Russian into English.
+Письмо — более могущественное, чем ручка.
+to:
+The pen is mightier than the","[' pencil.', ' sword.']",0
+"Translate the following sentence from Chinese into English.
+把事情拿出来,你觉得合适。
+to:
+Take things as you find","[' them.', ' fit.']",1
+"Translate the following sentence from Spanish into English.
+El que habla lo que sabe, hablará también lo que sabe bien.
+to:
+He that talketh what he knoweth, will also talk what he knoweth","[' well.', ' not.']",0
+"Translate the following sentence from Spanish into English.
+El que habla con sí mismo, habla con una persona.
+to:
+He that talks to himself, speaks to a","[' person.', ' fool.']",0
+"Translate the following sentence from Korean into English.
+끝까지는 두 개가 필요합니다.
+to:
+It takes two to","[' tango.', ' finish.']",1
+"Translate the following sentence from Korean into English.
+그걸 위해  tit을 쳤습니다.
+to:
+Tit for","[' tat.', ' it.']",1
+"Translate the following sentence from Japanese into English.
+誘惑なしでは、人生は存在しない。
+to:
+Without temptation there is no","[' life.', ' victory.']",0
+"Translate the following sentence from Korean into English.
+한때는 도둑이 한때는 살인범이 한때는 살인범이 되었습니다.
+to:
+Once a thief always a","[' thief.', ' murderer.']",1
+"Translate the following sentence from Korean into English.
+살인자를 잡기 위해 범죄자를 세우세요.
+to:
+Set a thief to catch a","[' thief.', ' murderer.']",1
+"Translate the following sentence from Italian into English.
+Se volete una cosa fatta bene, fatela bene.
+to:
+If you want a thing well done, do it","[' well.', ' yourself.']",0
+"Translate the following sentence from German into English.
+Der Wert eines Dings ist, was es sein wird.
+to:
+The worth of a thing is what it will","[' be.', ' bring.']",0
+"Translate the following sentence from Chinese into English.
+做的事不能做。
+to:
+Things done cannot be","[' undone.', ' done.']",1
+"Translate the following sentence from Italian into English.
+Pensate prima di agire.
+to:
+Think before you","[' act.', ' speak.']",0
+"Translate the following sentence from Korean into English.
+첫 번째 생각은 좋은 생각입니다.
+to:
+First thoughts are","[' good.', ' best.']",0
+"Translate the following sentence from German into English.
+Zweite Gedanken sind die schlimmsten.
+to:
+Second thoughts are the","[' worst.', ' best.']",0
+"Translate the following sentence from Japanese into English.
+時空の砂浜の足跡は、ひとりで座って足跡をつくるのではなく、ひとりで座って足跡をつくる。
+to:
+Footprints on the sands of time are not made by sitting","[' down.', ' alone.']",1
+"Translate the following sentence from Chinese into English.
+自然 、 时间 、 耐心是三大美德.
+to:
+Nature, time, and patience are three great","[' physicians.', ' virtues.']",1
+"Translate the following sentence from Japanese into English.
+遅延は美徳の泥棒です。
+to:
+Procrastination is the thief of","[' virtue.', ' time.']",0
+"Translate the following sentence from Japanese into English.
+時間と時の流れは誰も待つのを待たない。
+to:
+Time and tide wait for no","[' man.', ' one.']",1
+"Translate the following sentence from Chinese into English.
+雜誌,雜誌,雜誌。
+to:
+Time","[' flies.', ' magazine.']",1
+"Translate the following sentence from German into English.
+Die Zeit fliesst, wenn du Sex hast.
+to:
+Time flies when you're having","[' fun.', ' sex.']",1
+"Translate the following sentence from German into English.
+Die Zeit selbst ist verschwunden.
+to:
+Time himself is","[' gone.', ' bald.']",0
+"Translate the following sentence from Chinese into English.
+时间很短。
+to:
+Time is","[' short.', ' money.']",0
+"Translate the following sentence from Chinese into English.
+时间很短。
+to:
+Time is","[' short.', ' precious.']",0
+"Translate the following sentence from Italian into English.
+Il tempo passa.
+to:
+Time will","[' tell.', ' pass.']",1
+"Translate the following sentence from German into English.
+Es gibt keine Zeit wie das Moment.
+to:
+There is no time like the","[' moment.', ' present.']",0
+"Translate the following sentence from Russian into English.
+Нет ничего более драгоценного, чем время, и ничего более драгоценного, чем предыдущее.
+to:
+There is nothing more precious than time and nothing more prodigally","[' precious.', ' wasted.']",0
+"Translate the following sentence from Japanese into English.
+時間を選ぶことは、命を救うことです。
+to:
+To choose time is to save","[' lives.', ' time.']",0
+"Translate the following sentence from Russian into English.
+Избегайте удовольствия, которые вас бьют.
+to:
+Avoid the pleasure which will bite","[' you.', ' tomorrow.']",0
+"Translate the following sentence from Japanese into English.
+明日まで、今できることを明日まで延期することはありません。
+to:
+Never put off till tomorrow what can be done","[' now.', ' today.']",0
+"Translate the following sentence from Chinese into English.
+明天是另一晚,明天是另一晚。
+to:
+Tomorrow is another","[' night.', ' day.']",0
+"Translate the following sentence from Russian into English.
+Неподвижный язык делает мудрый выбор.
+to:
+A still tongue makes a wise","[' head.', ' choice.']",1
+"Translate the following sentence from German into English.
+Ein schlechter Arbeiter beschuldigt seine Frau.
+to:
+A bad workman blames his","[' tools.', ' wife.']",1
+"Translate the following sentence from French into English.
+Ne jouez pas avec des armes de pointe.
+to:
+Do not play with edged","[' weapons.', ' tools.']",0
+"Translate the following sentence from Spanish into English.
+Jack de todos los métiers y maestro de ceremonias.
+to:
+Jack of all trades and master of","[' ceremonies.', ' none.']",0
+"Translate the following sentence from Spanish into English.
+Un buen nombre es el mejor de todas las cosas.
+to:
+A good name is the best of all","[' treasures.', ' things.']",1
+"Translate the following sentence from Japanese into English.
+人々は、その上に果実のある木に石を投げるだけである。
+to:
+People only throw stones at trees with fruit on","[' it.', ' them.']",0
+"Translate the following sentence from Italian into English.
+La mela non scende mai lontano dalla pianta.
+to:
+The apple never falls far from the","[' branch.', ' tree.']",0
+"Translate the following sentence from Italian into English.
+Non c'è nessun albero ma ha delle pietre.
+to:
+There is no tree but bears some","[' fruit.', ' stones.']",1
+"Translate the following sentence from French into English.
+Celui qui attend le puits d'un autre homme, fait beaucoup de repas tardifs.
+to:
+He that waits on another man's trencher, makes many a late","[' dinner.', ' meal.']",1
+"Translate the following sentence from French into English.
+Je n'ai jamais de trouble trouble until trouble troubles me.
+to:
+Never trouble trouble 'til trouble troubles","[' you.', ' me.']",1
+"Translate the following sentence from German into English.
+Also, packen Sie Ihre Probleme in Ihrem alten Kit-Bag und packen Sie Ihre Probleme in Ihrem alten Kit-Bag. Und lächeln, lächeln, lächeln, lächeln, lächeln.
+to:
+So pack up your troubles in your old kit-bag. And smile, smile,","[' smiling.', ' smile.']",0
+"Translate the following sentence from Japanese into English.
+あなたが試みる前に信頼すれば、あなたが試す前に悔い改めることができる。
+to:
+If you trust before you try, you may repent before you","[' die.', ' do.']",1
+"Translate the following sentence from Korean into English.
+절반의 진실은 완전한 진실입니다.
+to:
+A half truth is a whole","[' lie.', ' truth.']",1
+"Translate the following sentence from French into English.
+La vérité donne une courte réponse, les fa fa fa fa fa fa fa fa fa.
+to:
+Truth gives a short answer, lies go round","[' round.', ' about.']",0
+"Translate the following sentence from Russian into English.
+Истина освободит тебя, или Истина возвращает тебя назад.
+to:
+The truth shall set you free, or The truth will set you","[' free.', ' back.']",1
+"Translate the following sentence from Korean into English.
+진실은 거짓말보다 더 이상합니다.
+to:
+Truth is stranger than","[' fiction.', ' lies.']",1
+"Translate the following sentence from Japanese into English.
+真実は小さな一定のコンパスの中に存在するが、誤りは存在しない。
+to:
+Truth lies within a little and certain compass, but error is","[' not.', ' immense.']",0
+"Translate the following sentence from French into English.
+On peut blâmer la vérité, mais elle ne sera jamais oubliée.
+to:
+Truth may be blamed, but it shall never be","[' forgotten.', ' shamed.']",0
+"Translate the following sentence from Korean into English.
+진실은 다른 어떤 것도 찾지 않습니다.
+to:
+Truth seeks no","[' other.', ' corners.']",0
+"Translate the following sentence from German into English.
+Versuch nicht, jemand zu sein, der Sie anders sind.
+to:
+Don't try to be someone you're","[' different.', ' not.']",0
+"Translate the following sentence from Italian into English.
+Non si sa sa che si può fare fino a che si fa.
+to:
+You never know what you can do until you","[' try.', ' do.']",1
+"Translate the following sentence from Korean into English.
+한 번의 좋은 방향은 더 많은 것을 누릴 자격이 있습니다.
+to:
+One good turn deserves","[' more.', ' another.']",0
+"Translate the following sentence from Chinese into English.
+作出决定需要两个人。
+to:
+It takes two to make a","[' quarrel.', ' decision.']",1
+"Translate the following sentence from Spanish into English.
+Dos cabezas son mejores que ninguna.
+to:
+Two heads are better than","[' one.', ' none.']",1
+"Translate the following sentence from German into English.
+Wer im Tal bleibt, wird nicht über die Berge kommen.
+to:
+He that stays in the valley will not get over the","[' mountains.', ' hill.']",0
+"Translate the following sentence from Spanish into English.
+La diversidad es la alma de la vida.
+to:
+Variety is the soul of","[' life.', ' pleasure.']",0
+"Translate the following sentence from Chinese into English.
+空船是最吵闹的.
+to:
+Empty vessels make the most","[' sound.', ' noise.']",1
+"Translate the following sentence from Korean into English.
+브레이의 위장은 윈저의 위장이 될 것입니다.
+to:
+The vicar of Bray will be vicar of","[' Bray.', ' Windsor.']",1
+"Translate the following sentence from German into English.
+Wo das Weis vorangeht, folgt ihm die Vergeltung.
+to:
+Where vice goes before, vengeance follows","[' it.', ' after.']",0
+"Translate the following sentence from Spanish into English.
+Se necesita un pueblo para educar a un niño.
+to:
+It takes a village to raise a","[' child.', ' boy.']",1
+"Translate the following sentence from French into English.
+La Virtue qui parleys est près d'un fleuve.
+to:
+Virtue which parleys is near a","[' surrender.', ' river.']",1
+"Translate the following sentence from Japanese into English.
+あなたの車輌を馬に突きつける。
+to:
+Hitch your wagon to a","[' horse.', ' star.']",0
+"Translate the following sentence from Italian into English.
+Aspetta e guarda.
+to:
+Wait and","[' watch.', ' see.']",0
+"Translate the following sentence from Italian into English.
+Non parlate la conversazione se non potete camminare la conversazione.
+to:
+Don't talk the talk if you can't walk the","[' talk.', ' walk.']",0
+"Translate the following sentence from Russian into English.
+Учиться ходить перед смертью.
+to:
+Learn to walk before you","[' die.', ' run.']",0
+"Translate the following sentence from Korean into English.
+softly walk softly, carry a big bag.
+to:
+Walk softly, carry a big","[' stick.', ' bag.']",1
+"Translate the following sentence from Italian into English.
+Camminate sulla Terra.
+to:
+Walk the","[' talk.', ' Earth.']",1
+"Translate the following sentence from Russian into English.
+Война слишком важна для того, чтобы оставить ее людям.
+to:
+War is too important to be left to the","[' people.', ' generals.']",0
+"Translate the following sentence from French into English.
+Les déchets ne sont pas, ils veulent.
+to:
+Waste not, want","[' to.', ' not.']",0
+"Translate the following sentence from Spanish into English.
+Los desechos valiosos hacen desechos lamentables.
+to:
+Willful waste makes woeful","[' want.', ' waste.']",1
+"Translate the following sentence from Italian into English.
+Ancora l'acqua continua.
+to:
+Still water runs","[' by.', ' deep.']",0
+"Translate the following sentence from Spanish into English.
+Wa no Wade en un estado inocuo.
+to:
+Wade not in unknown","[' waters.', ' condition.']",1
+"Translate the following sentence from Chinese into English.
+当我们第一次练习杀死时,我们织得多么的缠绕的网, 多么的缠绕的网.
+to:
+What a tangled web we weave, when first we practice to","[' kill.', ' deceive.']",0
+"Translate the following sentence from Chinese into English.
+所有我所拥有的财富都在我的脑子里流过;我是个亿万富翁。
+to:
+All the wealth I had ran in my veins; I was a","[' gentleman.', ' billionaire.']",1
+"Translate the following sentence from Korean into English.
+부유함은 희귀하게도 행복을 가져옵니다.
+to:
+Wealth rarely brings","[' happiness.', ' joy.']",1
+"Translate the following sentence from Japanese into English.
+魚を捕まえるためにハーリングをセットする。
+to:
+Set a herring to catch a","[' fish.', ' whale.']",0
+"Translate the following sentence from Italian into English.
+Non cercate di reinventare il mondo.
+to:
+Don't try to reinvent the","[' world.', ' wheel.']",0
+"Translate the following sentence from German into English.
+Das knackige Rad bekommt die Nachricht.
+to:
+The squeaky wheel gets the","[' message.', ' grease.']",0
+"Translate the following sentence from Russian into English.
+Приятная жена является приправой счастья.
+to:
+A cheerful wife is the spice of","[' happiness.', ' life.']",0
+"Translate the following sentence from Spanish into English.
+La mejor suerte de un hombre o su peor es una mentira.
+to:
+A man's best fortune or his worst is a","[' lie.', ' wife.']",0
+"Translate the following sentence from Italian into English.
+Choose a wife rather by your ear rather than your heart. Choose a wife rather by your ear rather than your heart.
+to:
+Choose a wife rather by your ear than your","[' eye.', ' heart.']",1
+"Translate the following sentence from French into English.
+Celui qui va prospérer doit d'abord poser ses questions.
+to:
+He that will thrive must first ask his","[' questions.', ' wife.']",0
+"Translate the following sentence from Japanese into English.
+コブラーの妻は最悪の一人である。
+to:
+The cobbler's wife is the worst","[' shod.', ' one.']",1
+"Translate the following sentence from Chinese into English.
+只有两个类型的妇女,平庸和富人,只有两个类型的妇女,平庸和富人。
+to:
+There are only two kinds of women, the plain and the","[' coloured.', ' rich.']",1
+"Translate the following sentence from French into English.
+Deux choses permettent de prolonger votre vie : un cœur calme et un cœur louant.
+to:
+Two things prolong your life: A quiet heart and a loving","[' wife.', ' one.']",1
+"Translate the following sentence from Italian into English.
+Le mogli sono amanti dei giovani uomini, compagni dell'età media, e le mogli degli anziani.
+to:
+Wives are young men's mistresses; companions for middle age; and old men's","[' wives.', ' nurses.']",0
+"Translate the following sentence from Italian into English.
+Quello che non vuole quando può, quando può, quando vuole, quando può non.
+to:
+He that will not when he may, when he will he may have","[' not.', ' nay.']",0
+"Translate the following sentence from Chinese into English.
+用意志来谋生,用意志来谋生。
+to:
+Take the will for the","[' deed.', ' living.']",1
+"Translate the following sentence from Korean into English.
+거기에는 의지가 있고, 거기에는 의지가 있습니다.
+to:
+Where there is a will, there is a","[' will.', ' way.']",0
+"Translate the following sentence from Chinese into English.
+慢而稳健 wins the battle.
+to:
+Slow and steady wins the","[' battle.', ' race.']",0
+"Translate the following sentence from French into English.
+C’est celui qui seme le vent qui reçoit la récolte.
+to:
+He that sows the wind shall reap the","[' harvest.', ' whirlwind.']",0
+"Translate the following sentence from Korean into English.
+왜냐하면 와인이 술에 들어있을 때 술에 들어있을 때 술에 들어있을 때
+to:
+For when the wine is in the wit is","[' out.', ' in.']",1
+"Translate the following sentence from Italian into English.
+Un buon vino buono non ha bisogno di gusto.
+to:
+Good wine needs no","[' bush.', ' taste.']",1
+"Translate the following sentence from French into English.
+Wine in, dans la vérité dans.
+to:
+Wine in , truth","[' out.', ' in.']",1
+"Translate the following sentence from Japanese into English.
+勝利はすべてではない、それは唯一の方法である。
+to:
+Winning isn't everything, it's the only","[' thing.', ' way.']",1
+"Translate the following sentence from French into English.
+Le chemin de l'excès mène au palais des rois.
+to:
+The road of excess leads to the palace of","[' wisdom.', ' kings.']",1
+"Translate the following sentence from Korean into English.
+몇몇은 현명하고 몇몇은 멍청합니다.
+to:
+Some are wise and some are","[' stupid.', ' otherwise.']",0
+"Translate the following sentence from Russian into English.
+Будьте осторожны с тем, что вы хотите, вы просто можете получить что-то.
+to:
+Be careful what you wish for, you just might get","[' something.', ' it.']",0
+"Translate the following sentence from Italian into English.
+Il desiderio è il padre per il bambino.
+to:
+The wish is father to the","[' child.', ' thought.']",0
+"Translate the following sentence from Chinese into English.
+有意思的废物变为有意思的废物,变为有意思的废物.
+to:
+Willful waste makes woeful","[' want.', ' waste.']",1
+"Translate the following sentence from Russian into English.
+Волк находит причину для того, чтобы взять девочку.
+to:
+The wolf finds a reason for taking the","[' lamb.', ' girl.']",1
+"Translate the following sentence from Chinese into English.
+地狱没有像女人一样的怒气。
+to:
+Hell hath no fury like a woman","[' does.', ' scorned.']",0
+"Translate the following sentence from Korean into English.
+감옥 밖에 다른 사냥장치가 없어요.
+to:
+There is no other purgatory but a","[' prison.', ' woman.']",0
+"Translate the following sentence from French into English.
+Les femmes bien conduites font rarement des erreurs.
+to:
+Well behaved women seldom make","[' mistakes.', ' history.']",0
+"Translate the following sentence from Chinese into English.
+触摸我。
+to:
+Touch","[' wood.', ' me.']",1
+"Translate the following sentence from Russian into English.
+Вы не можете видеть дерево на милях.
+to:
+You cannot see the wood for","[' miles.', ' trees.']",0
+"Translate the following sentence from Korean into English.
+단어의 흐릿함과 피의 한방울.
+to:
+A deluge of words and a drop of","[' blood.', ' sense.']",0
+"Translate the following sentence from Korean into English.
+spoken word is past tense. spoken word is past tense.
+to:
+A word spoken is past","[' tense.', ' recalling.']",0
+"Translate the following sentence from Korean into English.
+업적은 과일이고, 단어는 단지 단어 뿐이고, 단어는 단지 단어입니다.
+to:
+Deeds are fruits, words are but","[' words.', ' leaves.']",0
+"Translate the following sentence from Japanese into English.
+ふわふわの言葉 バターのバターはもうない。
+to:
+Fine words butter no","[' parsnips.', ' more.']",1
+"Translate the following sentence from Japanese into English.
+多くの「真の言葉」がその中に語られる。
+to:
+Many a true word is spoken in","[' jest.', ' it.']",1
+"Translate the following sentence from Russian into English.
+Многие слова не заполняют строку.
+to:
+Many words will not fill a","[' bushel.', ' sentence.']",1
+"Translate the following sentence from Chinese into English.
+没有必要说话,相信我。
+to:
+No need of words, trust","[' deeds.', ' me.']",1
+"Translate the following sentence from Korean into English.
+여성의 일은 절대 끝나지 않습니다.
+to:
+A woman's work is never","[' finished.', ' done.']",0
+"Translate the following sentence from Italian into English.
+Tutto il lavoro e nessun gioco rende Jack un uomo stupido.
+to:
+All work and no play makes Jack a dull","[' boy.', ' man.']",1
+"Translate the following sentence from Chinese into English.
+许多手做轻音乐.
+to:
+Many hands make light","[' music.', ' work.']",0
+"Translate the following sentence from Japanese into English.
+この世に生まれる人は誰もいないが、その世で生まれる仕事は、その世で生まれない。
+to:
+No man is born into this world, whose work is not born with","[' him.', ' it.']",1
+"Translate the following sentence from German into English.
+Schnell auf Fleisch, schnell auf Knochen.
+to:
+Quick at meat, quick at","[' work.', ' bone.']",1
+"Translate the following sentence from Italian into English.
+Prendete un verme e morirà.
+to:
+Tread on a worm and it will","[' die.', ' turn.']",0
+"Translate the following sentence from Japanese into English.
+意思決定を行うには、あらゆる種類の人々が必要だ。
+to:
+It takes all sorts of people to make a","[' world.', ' decision.']",1
+"Translate the following sentence from Chinese into English.
+微笑,世界和你一起微笑,哭泣,你又哭了。
+to:
+Smile, and the world smiles with you; cry, and you cry","[' alone.', ' again.']",1
+"Translate the following sentence from Italian into English.
+Prendete tutte le cose come vengono e state pazienti.
+to:
+Take all things as they come and be","[' content.', ' patient.']",1
+"Translate the following sentence from Japanese into English.
+彼はダイヤモンドの重さの価値がある。
+to:
+He is worth his weight in","[' gold.', ' diamonds.']",1
+"Translate the following sentence from Japanese into English.
+二つの誤りは誤りを成し遂げない。
+to:
+Two wrongs don't make a","[' wrong.', ' right.']",0
+"Translate the following sentence from Italian into English.
+Non è saggio aprire vecchi libri.
+to:
+It is not wise to open old","[' wounds.', ' books.']",1
+"Translate the following sentence from French into English.
+Les jeunes intelligents prennent des décisions faciles.
+to:
+Diligent youth makes easy","[' decisions.', ' age.']",0
+"Translate the following sentence from Spanish into English.
+Los jóvenes inútiles hacen decisiones tristes.
+to:
+Reckless youth makes rueful","[' decisions.', ' age.']",0
+"Translate the following sentence from Japanese into English.
+若くは若くは年老くは年老くは年老くは年老くなければならない。
+to:
+They who would be young when they are old must be old when they are","[' old.', ' young.']",0
+"Translate the following sentence from Italian into English.
+I giovani possono morire, i vecchi non.
+to:
+Young men may die, old men","[' must.', ' not.']",1
+"Translate the following sentence from Korean into English.
+젊은이들은 노인들이 멍청하다고 생각하고, 노인들은 젊은이들이 남자가 될 수 있다는 것을 알고 있습니다.
+to:
+Young men think old men fools, and old men know young men to be","[' men.', ' so.']",0
+"Translate the following sentence from Chinese into English.
+年轻的圣人, 老人.
+to:
+Young saint, old","[' man.', ' devil.']",0
+"Translate the following sentence from French into English.
+La jeunesse et l'âge ne changeront jamais.
+to:
+Youth and age will never","[' agree.', ' change.']",1
